@@ -334,6 +334,7 @@
 		<Property name="SeenProducts" value="CUBESTAIRS" />
 		<Property name="SeenProducts" value="MOONPOOL" />
 		<Property name="SeenProducts" value="S_GLOWGLOBE" />
+		<Property name="SeenProducts" value="FOOD_M_STRIDER" />
 		<Property name="SeenProducts" value="U_JETBOOST4" />
 		<Property name="SeenProducts" value="S_CANISTER0" />
 		<Property name="SeenProducts" value="U_TGRENADE1" />
@@ -420,6 +421,7 @@
 		<Property name="SeenProducts" value="CONTAINER2" />
 		<Property name="SeenProducts" value="MEGAPROD1" />
 		<Property name="SeenProducts" value="S_LANDINGZONE" />
+		<Property name="SeenProducts" value="U_HYPER3" />
 		<Property name="SeenProducts" value="BUILDDOOR" />
 		<Property name="SeenProducts" value="S_CRATE3OPEN" />
 		<Property name="SeenProducts" value="BUILD_REFINER1" />
@@ -958,16 +960,33 @@
 		<Property name="SeenProducts" value="T_RAMP" />
 	</Property>
 	<Property name="SeenWikiTopics">
-		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_1" />
-		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_5" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_6" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_FLEETS" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_6" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_RECIPES" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TRADE_4" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TECHNOLOGY" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_NANITES" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_1" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_BASICS" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_REFINER" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_WORDS" />
-		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_4" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_3" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_4" />
-		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_BASICS" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TERRAIN" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_1" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_5" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_3" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_2" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TRADE_6" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_2" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SPACE_STATION" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_4" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_DISMANTLE" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_4" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_5" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_1" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SIGNALS" />
 	</Property>
 	<Property name="UnlockedWikiTopics">
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_6" />
@@ -1031,7 +1050,7 @@
 	<Property name="SpeechToText" value="false" />
 	<Property name="Translate" value="false" />
 	<Property name="CrossPlatform" value="true" />
-	<Property name="TemperatureUnit" value="Invalid" />
+	<Property name="TemperatureUnit" value="C" />
 	<Property name="UseOldMouseFlight" value="false" />
 	<Property name="LastSeenCommunityMission" value="-1" />
 	<Property name="LastSeenCommunityMissionTier" value="-1" />
