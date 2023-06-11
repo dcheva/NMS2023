@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data template="TkGameSettings">
+	<Property name="LanguageSetting" value="russian" />
+	<Property name="KeyMapping" />
+	<Property name="KeyMapping2">
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="PlayerAutoWalk" />
+			<Property name="Button" value="KeyV" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Build_Menu" />
+			<Property name="Button" value="KeyQ" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Player_Melee" />
+			<Property name="Button" value="KeyZ" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="PlayerAutoWalk" />
+			<Property name="Button" value="MouseUnbound" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Build_Menu" />
+			<Property name="Button" value="MouseUnbound" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Player_Melee" />
+			<Property name="Button" value="MouseUnbound" />
+			<Property name="Axis" value="None" />
+		</Property>
+	</Property>
+</Data>
