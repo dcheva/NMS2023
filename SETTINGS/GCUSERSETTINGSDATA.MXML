@@ -1025,6 +1025,7 @@
 		<Property name="UnlockedTitles" value="T_DEFAULT" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE1" />
 		<Property name="UnlockedTitles" value="T_JM_ZOO1" />
+		<Property name="UnlockedTitles" value="T_WAR1" />
 		<Property name="UnlockedTitles" value="T_JM_MINSCAN1" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_10" />
 		<Property name="UnlockedTitles" value="T_TRA2" />
