@@ -11,11 +11,11 @@
 	<Property name="SfxVolume" value="80" />
 	<Property name="LookSensitivityMode1" value="35" />
 	<Property name="LookSensitivityMode2" value="25" />
-	<Property name="FlightSensitivityMode1" value="70" />
+	<Property name="FlightSensitivityMode1" value="100" />
 	<Property name="FlightSensitivityMode2" value="25" />
 	<Property name="CursorSensitivityMode1" value="20" />
 	<Property name="CursorSensitivityMode2" value="15" />
-	<Property name="MouseSpringSmoothing" value="10" />
+	<Property name="MouseSpringSmoothing" value="0" />
 	<Property name="BlockList" value="GcBlockListPersistence.xml">
 		<Property name="BlockedUserArray">
 			<Property name="BlockedUserArray" value="GcBlockedUser.xml" />
