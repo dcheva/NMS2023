@@ -693,6 +693,7 @@
 		<Property name="SeenProducts" value="S_BARSTOOL0" />
 		<Property name="SeenProducts" value="F_ROOF0" />
 		<Property name="SeenProducts" value="S_CHEV_DOOR" />
+		<Property name="SeenProducts" value="QUAD_PROD" />
 		<Property name="SeenProducts" value="STARCHART_A" />
 		<Property name="SeenProducts" value="T_WALL_WIN3" />
 		<Property name="SeenProducts" value="U_UNW1" />
