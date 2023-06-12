@@ -372,6 +372,7 @@
 		<Property name="SeenProducts" value="SLIME_MED" />
 		<Property name="SeenProducts" value="SPOOKY_PLANT" />
 		<Property name="SeenProducts" value="TRA_ENERGY1" />
+		<Property name="SeenProducts" value="TECHBOX" />
 		<Property name="SeenProducts" value="U_SHIELDBOOST1" />
 		<Property name="SeenProducts" value="HEALTHSTATION" />
 		<Property name="SeenProducts" value="WORMCORE" />
@@ -1073,6 +1074,7 @@
 		<Property name="UnlockedTitles" value="T_WAR1" />
 		<Property name="UnlockedTitles" value="T_JM_FIGHT1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
+		<Property name="UnlockedTitles" value="T_LORE10" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE2" />
 		<Property name="UnlockedTitles" value="T_BUILDER3" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
