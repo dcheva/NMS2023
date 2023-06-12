@@ -284,6 +284,7 @@
 		<Property name="SeenTechnologies" value="UT_SHOT" />
 		<Property name="SeenTechnologies" value="LAUNCHER" />
 		<Property name="SeenTechnologies" value="UT_MINER" />
+		<Property name="SeenTechnologies" value="F_SCANNER" />
 		<Property name="SeenTechnologies" value="SHIPSLOT_DMG6" />
 		<Property name="SeenTechnologies" value="SCANBINOC1" />
 		<Property name="SeenTechnologies" value="SHIPPLASMA" />
