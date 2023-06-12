@@ -154,6 +154,7 @@
 		<Property name="SeenSubstances" value="CATALYST1" />
 		<Property name="SeenSubstances" value="YELLOW2" />
 		<Property name="SeenSubstances" value="OXYGEN" />
+		<Property name="SeenSubstances" value="WATERPLANT" />
 		<Property name="SeenSubstances" value="PLANT_SNOW" />
 		<Property name="SeenSubstances" value="GAS2" />
 		<Property name="SeenSubstances" value="CAVE2" />
@@ -319,6 +320,7 @@
 		<Property name="SeenProducts" value="FARMPROD4" />
 		<Property name="SeenProducts" value="S_CHEV_WIN2" />
 		<Property name="SeenProducts" value="JELLY" />
+		<Property name="SeenProducts" value="TRA_MINERALS2" />
 		<Property name="SeenProducts" value="S_CEMENTMIXER" />
 		<Property name="SeenProducts" value="CARBONPLANTER" />
 		<Property name="SeenProducts" value="S_POSTER4" />
@@ -684,6 +686,7 @@
 		<Property name="SeenProducts" value="PLANTERMEGA" />
 		<Property name="SeenProducts" value="TRA_EXOTICS4" />
 		<Property name="SeenProducts" value="BUILDDECALNUM1" />
+		<Property name="SeenProducts" value="EXP_CURIO2" />
 		<Property name="SeenProducts" value="S_PUMP" />
 		<Property name="SeenProducts" value="FOOD_P_ALL1" />
 		<Property name="SeenProducts" value="U_JETBOOST1" />
@@ -1005,6 +1008,7 @@
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_TERRAIN" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_1" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_5" />
+		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_POWER" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_3" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_2" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_TRADE_6" />
