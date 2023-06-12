@@ -12,7 +12,9 @@
 	<Property name="ResolutionScale" value="0.850000" />
 	<Property name="VsyncEx" value="Triple" />
 	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
-		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml" />
+		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="High" />
+		</Property>
 		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
