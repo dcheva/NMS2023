@@ -192,6 +192,7 @@
 		<Property name="SeenTechnologies" value="UT_SCAN" />
 		<Property name="SeenTechnologies" value="UT_PULSEFUEL" />
 		<Property name="SeenTechnologies" value="UT_RAIL" />
+		<Property name="SeenTechnologies" value="EXOPOD_TECH3" />
 		<Property name="SeenTechnologies" value="SOLAR_SAIL" />
 		<Property name="SeenTechnologies" value="MAINT_TECH5" />
 		<Property name="SeenTechnologies" value="SHOTGUN" />
@@ -205,6 +206,7 @@
 		<Property name="SeenTechnologies" value="CANNON" />
 		<Property name="SeenTechnologies" value="SHIPSHOTGUN" />
 		<Property name="SeenTechnologies" value="MECH_MINER" />
+		<Property name="SeenTechnologies" value="EXOPOD_TECH2" />
 		<Property name="SeenTechnologies" value="PROTECT" />
 		<Property name="SeenTechnologies" value="SHIP_TELEPORT" />
 		<Property name="SeenTechnologies" value="MAINT_FUEL1" />
@@ -270,6 +272,7 @@
 		<Property name="SeenTechnologies" value="UT_STUNDMG" />
 		<Property name="SeenTechnologies" value="MAINT_TECH3" />
 		<Property name="SeenTechnologies" value="MECH_PILOT" />
+		<Property name="SeenTechnologies" value="EXOPOD_TECH1" />
 		<Property name="SeenTechnologies" value="UT_WATERENERGY" />
 		<Property name="SeenTechnologies" value="GROUND_SHIELD" />
 		<Property name="SeenTechnologies" value="UT_SHIPSHOT" />
