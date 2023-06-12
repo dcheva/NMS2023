@@ -15,10 +15,18 @@
 		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml" />
-		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml" />
+		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
 		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
