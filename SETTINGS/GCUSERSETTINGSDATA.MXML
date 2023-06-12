@@ -314,6 +314,7 @@
 		<Property name="SeenTechnologies" value="SUB_ENGINE" />
 		<Property name="SeenTechnologies" value="UT_PULSESPEED" />
 		<Property name="SeenTechnologies" value="VEHICLE_SCAN" />
+		<Property name="SeenTechnologies" value="MAINT_FUEL3" />
 		<Property name="SeenTechnologies" value="UT_ENERGY" />
 		<Property name="SeenTechnologies" value="SUB_RECHARGE" />
 		<Property name="SeenTechnologies" value="UT_COLD" />
@@ -757,6 +758,7 @@
 		<Property name="SeenProducts" value="F_ROOF5" />
 		<Property name="SeenProducts" value="S_GDOOR" />
 		<Property name="SeenProducts" value="FOOD_P_ALL2" />
+		<Property name="SeenProducts" value="U_RAD3" />
 		<Property name="SeenProducts" value="S_MILKCRATE" />
 		<Property name="SeenProducts" value="F_DOOR" />
 		<Property name="SeenProducts" value="CREATURE_FEED" />
