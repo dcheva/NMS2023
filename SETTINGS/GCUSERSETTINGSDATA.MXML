@@ -534,6 +534,7 @@
 		<Property name="SeenProducts" value="S_FENCE3" />
 		<Property name="SeenProducts" value="T_WALL_H" />
 		<Property name="SeenProducts" value="S_PLANTER_M" />
+		<Property name="SeenProducts" value="TRA_ALLOY5" />
 		<Property name="SeenProducts" value="F_WALL_Q" />
 		<Property name="SeenProducts" value="S_DOOR_H" />
 		<Property name="SeenProducts" value="F_ROOF8" />
@@ -1078,6 +1079,7 @@
 		<Property name="UnlockedTitles" value="T_JM_MINSCAN1" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_10" />
 		<Property name="UnlockedTitles" value="T_TRA2" />
+		<Property name="UnlockedTitles" value="T_JM_SURVIVE3" />
 		<Property name="UnlockedTitles" value="T_SHIP_SCI" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS1" />
 		<Property name="UnlockedTitles" value="T_BUILDER1" />
