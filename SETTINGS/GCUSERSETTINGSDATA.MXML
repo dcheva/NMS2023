@@ -190,6 +190,7 @@
 		<Property name="SeenTechnologies" value="UT_SCAN" />
 		<Property name="SeenTechnologies" value="UT_PULSEFUEL" />
 		<Property name="SeenTechnologies" value="UT_RAIL" />
+		<Property name="SeenTechnologies" value="SOLAR_SAIL" />
 		<Property name="SeenTechnologies" value="MAINT_TECH5" />
 		<Property name="SeenTechnologies" value="SHOTGUN" />
 		<Property name="SeenTechnologies" value="EXO_PROT_HOT" />
@@ -1030,6 +1031,7 @@
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_SIGNALS" />
 	</Property>
 	<Property name="UnlockedTitles">
+		<Property name="UnlockedTitles" value="T_MS_WORDS_4" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
 		<Property name="UnlockedTitles" value="T_EXP1" />
 		<Property name="UnlockedTitles" value="T_BUILDER2" />
