@@ -23,14 +23,20 @@
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="Player_ChangeWeapon" />
-			<Property name="Button" value="KeyG" />
+			<Property name="Action" value="PlayerAutoWalk" />
+			<Property name="Button" value="KeyX" />
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="PlayerAutoWalk" />
-			<Property name="Button" value="KeyX" />
+			<Property name="Action" value="Player_ChangeAltWeapon" />
+			<Property name="Button" value="KeyV" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Player_ChangeWeapon" />
+			<Property name="Button" value="KeyG" />
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
@@ -209,13 +215,19 @@
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="Player_ChangeWeapon" />
+			<Property name="Action" value="PlayerAutoWalk" />
 			<Property name="Button" value="MouseUnbound" />
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="PlayerAutoWalk" />
+			<Property name="Action" value="Player_ChangeAltWeapon" />
+			<Property name="Button" value="MouseUnbound" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Player_ChangeWeapon" />
 			<Property name="Button" value="MouseUnbound" />
 			<Property name="Axis" value="None" />
 		</Property>
