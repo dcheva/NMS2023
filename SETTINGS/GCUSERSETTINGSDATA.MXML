@@ -175,6 +175,7 @@
 		<Property name="SeenSubstances" value="ROCKETSUB" />
 		<Property name="SeenSubstances" value="ASTEROID2" />
 		<Property name="SeenSubstances" value="ROBOT2" />
+		<Property name="SeenSubstances" value="EXP_STANDING_UP" />
 		<Property name="SeenSubstances" value="WATER2" />
 		<Property name="SeenSubstances" value="GAS1" />
 		<Property name="SeenSubstances" value="CATALYST2" />
@@ -1091,6 +1092,7 @@
 		<Property name="UnlockedTitles" value="T_TRA2" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE3" />
 		<Property name="UnlockedTitles" value="T_SHIP_SCI" />
+		<Property name="UnlockedTitles" value="T_MS_FLORA_4" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS1" />
 		<Property name="UnlockedTitles" value="T_BUILDER1" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_6" />
