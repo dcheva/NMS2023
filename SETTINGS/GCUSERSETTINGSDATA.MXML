@@ -658,6 +658,7 @@
 		<Property name="SeenProducts" value="BUILDDECALSIMP2" />
 		<Property name="SeenProducts" value="S_ARCH" />
 		<Property name="SeenProducts" value="BUILDPAVING" />
+		<Property name="SeenProducts" value="U_TGRENADEX" />
 		<Property name="SeenProducts" value="T_ROOF_IC" />
 		<Property name="SeenProducts" value="S_TRIFLOOR" />
 		<Property name="SeenProducts" value="F_WALL_WIN1" />
