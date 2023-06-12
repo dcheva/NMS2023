@@ -163,6 +163,7 @@
 		<Property name="SeenSubstances" value="ROCKETSUB" />
 		<Property name="SeenSubstances" value="WAR_STANDING_UP" />
 		<Property name="SeenSubstances" value="ASTEROID2" />
+		<Property name="SeenSubstances" value="ROBOT2" />
 		<Property name="SeenSubstances" value="SPACEGUNK3" />
 		<Property name="SeenSubstances" value="PLANT_CAVE" />
 		<Property name="SeenSubstances" value="WATER2" />
