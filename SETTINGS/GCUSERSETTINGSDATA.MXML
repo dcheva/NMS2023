@@ -1098,6 +1098,7 @@
 		<Property name="UnlockedTitles" value="T_MS_MONEY_10" />
 		<Property name="UnlockedTitles" value="T_TRA2" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE3" />
+		<Property name="UnlockedTitles" value="T_JM_FLORASCAN2" />
 		<Property name="UnlockedTitles" value="T_SHIP_SCI" />
 		<Property name="UnlockedTitles" value="T_MS_FLORA_4" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS1" />
