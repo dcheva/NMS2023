@@ -391,6 +391,7 @@
 		<Property name="SeenProducts" value="F_ROOF2" />
 		<Property name="SeenProducts" value="S_CHAIR0" />
 		<Property name="SeenProducts" value="HYPERFUEL1" />
+		<Property name="SeenProducts" value="FACT_TOKEN" />
 		<Property name="SeenProducts" value="MIRROR" />
 		<Property name="SeenProducts" value="BUILDDECALVIS3" />
 		<Property name="SeenProducts" value="SCORCHEDPLANT" />
@@ -1068,6 +1069,7 @@
 		<Property name="UnlockedTitles" value="T_WAR2" />
 		<Property name="UnlockedTitles" value="T_JM_ZOO1" />
 		<Property name="UnlockedTitles" value="T_WAR1" />
+		<Property name="UnlockedTitles" value="T_JM_FIGHT1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE2" />
 		<Property name="UnlockedTitles" value="T_BUILDER3" />
