@@ -4,15 +4,21 @@
 	<Property name="KeyMapping" />
 	<Property name="KeyMapping2">
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
-			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="Build_Menu" />
-			<Property name="Button" value="KeyQ" />
+			<Property name="ActionSet" value="FRONTEND" />
+			<Property name="Action" value="UI_StackSplitUp" />
+			<Property name="Button" value="KeyG" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="FRONTEND" />
+			<Property name="Action" value="UI_StackSplitDown" />
+			<Property name="Button" value="KeyV" />
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="Player_Melee" />
-			<Property name="Button" value="KeyZ" />
+			<Property name="Action" value="Build_Menu" />
+			<Property name="Button" value="KeyQ" />
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
@@ -40,6 +46,12 @@
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Player_Melee" />
+			<Property name="Button" value="LCtrl" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootQuickMenu" />
 			<Property name="Action" value="Quick_Down" />
 			<Property name="Button" value="KeyW" />
@@ -186,24 +198,18 @@
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="FRONTEND" />
 			<Property name="Action" value="UI_StackSplitUp" />
-			<Property name="Button" value="KeyG" />
+			<Property name="Button" value="MouseUnbound" />
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="FRONTEND" />
 			<Property name="Action" value="UI_StackSplitDown" />
-			<Property name="Button" value="KeyV" />
-			<Property name="Axis" value="None" />
-		</Property>
-		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
-			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="Build_Menu" />
 			<Property name="Button" value="MouseUnbound" />
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootControls" />
-			<Property name="Action" value="Player_Melee" />
+			<Property name="Action" value="Build_Menu" />
 			<Property name="Button" value="MouseUnbound" />
 			<Property name="Axis" value="None" />
 		</Property>
@@ -232,6 +238,12 @@
 			<Property name="Axis" value="None" />
 		</Property>
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Player_Melee" />
+			<Property name="Button" value="MouseUnbound" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="OnFootQuickMenu" />
 			<Property name="Action" value="Quick_Down" />
 			<Property name="Button" value="MouseUnbound" />
@@ -372,18 +384,6 @@
 		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
 			<Property name="ActionSet" value="BuildMenuPlacementMode" />
 			<Property name="Action" value="BaseBuilding_ToggleSnapping" />
-			<Property name="Button" value="MouseUnbound" />
-			<Property name="Axis" value="None" />
-		</Property>
-		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
-			<Property name="ActionSet" value="FRONTEND" />
-			<Property name="Action" value="UI_StackSplitUp" />
-			<Property name="Button" value="MouseUnbound" />
-			<Property name="Axis" value="None" />
-		</Property>
-		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
-			<Property name="ActionSet" value="FRONTEND" />
-			<Property name="Action" value="UI_StackSplitDown" />
 			<Property name="Button" value="MouseUnbound" />
 			<Property name="Axis" value="None" />
 		</Property>
