@@ -242,6 +242,7 @@
 		<Property name="SeenTechnologies" value="MECH_ENGINE" />
 		<Property name="SeenTechnologies" value="MECH_GUN" />
 		<Property name="SeenTechnologies" value="HDRIVEBOOST1" />
+		<Property name="SeenTechnologies" value="MAINT_ARTIFACT" />
 		<Property name="SeenTechnologies" value="UT_TOX" />
 		<Property name="SeenTechnologies" value="MECH_PROT" />
 		<Property name="SeenTechnologies" value="SHIPLAS1" />
@@ -363,6 +364,7 @@
 		<Property name="SeenProducts" value="TRA_ENERGY1" />
 		<Property name="SeenProducts" value="U_SHIELDBOOST1" />
 		<Property name="SeenProducts" value="HEALTHSTATION" />
+		<Property name="SeenProducts" value="WORMCORE" />
 		<Property name="SeenProducts" value="F_WALL" />
 		<Property name="SeenProducts" value="U_RAIL1" />
 		<Property name="SeenProducts" value="FRE_ROOM_FLEET" />
@@ -722,6 +724,7 @@
 		<Property name="SeenProducts" value="S_BARTAPS0" />
 		<Property name="SeenProducts" value="CYLINDERSHAPE" />
 		<Property name="SeenProducts" value="FOOD_M_DIGGER" />
+		<Property name="SeenProducts" value="ARTIFACT_KEY" />
 		<Property name="SeenProducts" value="DRAWS" />
 		<Property name="SeenProducts" value="BUILDLIGHT" />
 		<Property name="SeenProducts" value="F_CHEV_WALL" />
@@ -874,6 +877,7 @@
 		<Property name="SeenProducts" value="BUILDTERMINAL" />
 		<Property name="SeenProducts" value="F_TRIFLOOR" />
 		<Property name="SeenProducts" value="GRAVPLANT" />
+		<Property name="SeenProducts" value="SENTINEL_LOOT" />
 		<Property name="SeenProducts" value="S_POSTER2" />
 		<Property name="SeenProducts" value="BUILDDECALSIMP3" />
 		<Property name="SeenProducts" value="BUILDCANRACK" />
@@ -1033,6 +1037,7 @@
 	</Property>
 	<Property name="UnlockedTitles">
 		<Property name="UnlockedTitles" value="T_MS_WORDS_4" />
+		<Property name="UnlockedTitles" value="T_DIG1" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
 		<Property name="UnlockedTitles" value="T_EXP1" />
 		<Property name="UnlockedTitles" value="T_BUILDER2" />
