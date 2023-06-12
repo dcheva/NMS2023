@@ -336,6 +336,7 @@
 		<Property name="SeenProducts" value="BUILD_REFINER3" />
 		<Property name="SeenProducts" value="TECHPANEL" />
 		<Property name="SeenProducts" value="S_POSTER1" />
+		<Property name="SeenProducts" value="REPAIRKIT" />
 		<Property name="SeenProducts" value="S_WATERTOWER" />
 		<Property name="SeenProducts" value="FARMPROD7" />
 		<Property name="SeenProducts" value="CUBESTAIRS" />
@@ -359,9 +360,12 @@
 		<Property name="SeenProducts" value="FRE_ROOM_STORE7" />
 		<Property name="SeenProducts" value="S_WALL_WINDOW" />
 		<Property name="SeenProducts" value="CRATELRARE" />
+		<Property name="SeenProducts" value="BASE_TOYJELLY" />
 		<Property name="SeenProducts" value="S_ROOF_C" />
 		<Property name="SeenProducts" value="S_GAZEBO0" />
 		<Property name="SeenProducts" value="SERVERSTACK" />
+		<Property name="SeenProducts" value="SLIME_MED" />
+		<Property name="SeenProducts" value="SPOOKY_PLANT" />
 		<Property name="SeenProducts" value="TRA_ENERGY1" />
 		<Property name="SeenProducts" value="U_SHIELDBOOST1" />
 		<Property name="SeenProducts" value="HEALTHSTATION" />
@@ -392,6 +396,7 @@
 		<Property name="SeenProducts" value="S_WALLDIAGONAL" />
 		<Property name="SeenProducts" value="F_ROOF1" />
 		<Property name="SeenProducts" value="S_FLOOR" />
+		<Property name="SeenProducts" value="DECAL_JELLY" />
 		<Property name="SeenProducts" value="S_CRATE4" />
 		<Property name="SeenProducts" value="WALLFAN" />
 		<Property name="SeenProducts" value="BP_ANALYSER" />
@@ -404,6 +409,7 @@
 		<Property name="SeenProducts" value="WALLSCREENB" />
 		<Property name="SeenProducts" value="S_PAN0" />
 		<Property name="SeenProducts" value="CUBEFLOOR" />
+		<Property name="SeenProducts" value="SCRAP_WEAP" />
 		<Property name="SeenProducts" value="S_TABLELAMP0" />
 		<Property name="SeenProducts" value="TRA_COMMODITY1" />
 		<Property name="SeenProducts" value="S_SCAFFOLD_M" />
@@ -551,6 +557,7 @@
 		<Property name="SeenProducts" value="MESSAGEMODULE" />
 		<Property name="SeenProducts" value="BUILDLIGHT3" />
 		<Property name="SeenProducts" value="WEAPONRACK" />
+		<Property name="SeenProducts" value="BANNER_SPOOKY" />
 		<Property name="SeenProducts" value="S_SCISSORLIFT" />
 		<Property name="SeenProducts" value="WALLFLOORLADDER" />
 		<Property name="SeenProducts" value="S_CRATE1" />
@@ -761,6 +768,7 @@
 		<Property name="SeenProducts" value="U_TOX1" />
 		<Property name="SeenProducts" value="ALLOY5" />
 		<Property name="SeenProducts" value="S_DRAPE0" />
+		<Property name="SeenProducts" value="DECAL_HORROR" />
 		<Property name="SeenProducts" value="WALLFLAG1" />
 		<Property name="SeenProducts" value="SCRAP_GOODS" />
 		<Property name="SeenProducts" value="LAUNCHFUEL" />
@@ -805,6 +813,7 @@
 		<Property name="SeenProducts" value="VIEWSPHERE" />
 		<Property name="SeenProducts" value="POOPPLANT" />
 		<Property name="SeenProducts" value="BUILDWINDOW" />
+		<Property name="SeenProducts" value="DECAL_HAZARD" />
 		<Property name="SeenProducts" value="S_CANISTER1" />
 		<Property name="SeenProducts" value="GARAGE_MECH" />
 		<Property name="SeenProducts" value="ALLOY4" />
@@ -814,6 +823,7 @@
 		<Property name="SeenProducts" value="S_BARREL1" />
 		<Property name="SeenProducts" value="S_SIGN_BAR0" />
 		<Property name="SeenProducts" value="CREATUREPLANT" />
+		<Property name="SeenProducts" value="SPEC_SPOOKYHEAD" />
 		<Property name="SeenProducts" value="CUBESHAPE" />
 		<Property name="SeenProducts" value="REACTION2" />
 		<Property name="SeenProducts" value="T_CHEV_WALL" />
@@ -832,6 +842,7 @@
 		<Property name="SeenProducts" value="BUILDWORKTOP" />
 		<Property name="SeenProducts" value="S_STEPLADDER" />
 		<Property name="SeenProducts" value="TRA_MINERALS1" />
+		<Property name="SeenProducts" value="BANNER_SLIMY" />
 		<Property name="SeenProducts" value="BUILDCHAIR2" />
 		<Property name="SeenProducts" value="S_ARCH_H" />
 		<Property name="SeenProducts" value="TRA_CURIO2" />
@@ -955,6 +966,7 @@
 		<Property name="SeenProducts" value="U_SHOTGUN2" />
 		<Property name="SeenProducts" value="S_ROOF4" />
 		<Property name="SeenProducts" value="U_COLDPROT1" />
+		<Property name="SeenProducts" value="DECAL_SKULL" />
 		<Property name="SeenProducts" value="COOKER" />
 		<Property name="SeenProducts" value="F_ROOF_M" />
 		<Property name="SeenProducts" value="BUILDSIMPLEDESK" />
