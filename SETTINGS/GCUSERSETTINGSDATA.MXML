@@ -171,6 +171,7 @@
 		<Property name="SeenSubstances" value="CATALYST1" />
 		<Property name="SeenSubstances" value="YELLOW2" />
 		<Property name="SeenSubstances" value="OXYGEN" />
+		<Property name="SeenSubstances" value="PLANT_DUST" />
 		<Property name="SeenSubstances" value="PLANT_SNOW" />
 		<Property name="SeenSubstances" value="ROCKETSUB" />
 		<Property name="SeenSubstances" value="ASTEROID2" />
@@ -1081,6 +1082,7 @@
 		<Property name="UnlockedTitles" value="T_JM_ZOO1" />
 		<Property name="UnlockedTitles" value="T_JM_SHIPS1" />
 		<Property name="UnlockedTitles" value="T_WAR1" />
+		<Property name="UnlockedTitles" value="T_JM_RARESCAN1" />
 		<Property name="UnlockedTitles" value="T_JM_FIGHT1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
 		<Property name="UnlockedTitles" value="T_LORE10" />
