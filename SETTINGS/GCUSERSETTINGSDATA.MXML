@@ -468,6 +468,7 @@
 		<Property name="SeenProducts" value="S_POSTER6" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE3" />
 		<Property name="SeenProducts" value="BUILDRAMP" />
+		<Property name="SeenProducts" value="UP_T_WATERJET" />
 		<Property name="SeenProducts" value="S_CHEV_WALL" />
 		<Property name="SeenProducts" value="BUILDSIDEPANEL" />
 		<Property name="SeenProducts" value="S_FENCE0" />
@@ -767,6 +768,7 @@
 		<Property name="SeenProducts" value="LIGHTBOX" />
 		<Property name="SeenProducts" value="S_LIGHTSTRIP0" />
 		<Property name="SeenProducts" value="T_WALL_Q1" />
+		<Property name="SeenProducts" value="CHART_TREASURE" />
 		<Property name="SeenProducts" value="SHIELDSTATION" />
 		<Property name="SeenProducts" value="CUBEINNERDOOR" />
 		<Property name="SeenProducts" value="S_WALL" />
