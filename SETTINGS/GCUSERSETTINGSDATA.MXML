@@ -388,6 +388,7 @@
 		<Property name="SeenProducts" value="F_ROOF2" />
 		<Property name="SeenProducts" value="S_CHAIR0" />
 		<Property name="SeenProducts" value="HYPERFUEL1" />
+		<Property name="SeenProducts" value="€€S˜Ñ#00000" />
 		<Property name="SeenProducts" value="MIRROR" />
 		<Property name="SeenProducts" value="BUILDDECALVIS3" />
 		<Property name="SeenProducts" value="SCORCHEDPLANT" />
@@ -399,6 +400,7 @@
 		<Property name="SeenProducts" value="F_ROOF1" />
 		<Property name="SeenProducts" value="S_FLOOR" />
 		<Property name="SeenProducts" value="DECAL_JELLY" />
+		<Property name="SeenProducts" value="€€9´’B#00000" />
 		<Property name="SeenProducts" value="U_UNW3" />
 		<Property name="SeenProducts" value="S_CRATE4" />
 		<Property name="SeenProducts" value="WALLFAN" />
@@ -531,6 +533,7 @@
 		<Property name="SeenProducts" value="S_FENCE3" />
 		<Property name="SeenProducts" value="T_WALL_H" />
 		<Property name="SeenProducts" value="S_PLANTER_M" />
+		<Property name="SeenProducts" value="€S³9#00000" />
 		<Property name="SeenProducts" value="F_WALL_Q" />
 		<Property name="SeenProducts" value="S_DOOR_H" />
 		<Property name="SeenProducts" value="F_ROOF8" />
@@ -721,6 +724,7 @@
 		<Property name="SeenProducts" value="CAVECUBE" />
 		<Property name="SeenProducts" value="S_FLAG5" />
 		<Property name="SeenProducts" value="T_CHEV_WIN1" />
+		<Property name="SeenProducts" value="€€£Z:#00000" />
 		<Property name="SeenProducts" value="T_WALL_WIN1" />
 		<Property name="SeenProducts" value="LUSHPLANT" />
 		<Property name="SeenProducts" value="S_DOORWINDOW" />
@@ -729,6 +733,7 @@
 		<Property name="SeenProducts" value="CUBEFOUND4" />
 		<Property name="SeenProducts" value="S_WALL_H" />
 		<Property name="SeenProducts" value="T_GDOOR" />
+		<Property name="SeenProducts" value="€€…\EÙ#82592" />
 		<Property name="SeenProducts" value="FARMPROD1" />
 		<Property name="SeenProducts" value="BUILDSIGNAL" />
 		<Property name="SeenProducts" value="S_PALLET_BRICK" />
@@ -1058,30 +1063,31 @@
 	</Property>
 	<Property name="UnlockedTitles">
 		<Property name="UnlockedTitles" value="T_MS_WORDS_4" />
-		<Property name="UnlockedTitles" value="T_DIG1" />
-		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
 		<Property name="UnlockedTitles" value="T_EXP1" />
 		<Property name="UnlockedTitles" value="T_BUILDER2" />
-		<Property name="UnlockedTitles" value="T_JM_WALK1" />
 		<Property name="UnlockedTitles" value="T_DEFAULT" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE1" />
 		<Property name="UnlockedTitles" value="T_WAR2" />
 		<Property name="UnlockedTitles" value="T_JM_ZOO1" />
 		<Property name="UnlockedTitles" value="T_WAR1" />
+		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
+		<Property name="UnlockedTitles" value="T_JM_SURVIVE2" />
+		<Property name="UnlockedTitles" value="T_BUILDER3" />
+		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
+		<Property name="UnlockedTitles" value="T_TRA1" />
+		<Property name="UnlockedTitles" value="T_DIG1" />
+		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
+		<Property name="UnlockedTitles" value="T_JM_WALK1" />
 		<Property name="UnlockedTitles" value="T_JM_MINSCAN1" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_10" />
 		<Property name="UnlockedTitles" value="T_TRA2" />
 		<Property name="UnlockedTitles" value="T_SHIP_SCI" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS1" />
 		<Property name="UnlockedTitles" value="T_BUILDER1" />
-		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_6" />
-		<Property name="UnlockedTitles" value="T_JM_SURVIVE2" />
-		<Property name="UnlockedTitles" value="T_BUILDER3" />
-		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
 		<Property name="UnlockedTitles" value="T_OLD" />
 		<Property name="UnlockedTitles" value="T_MS_DIST_4" />
-		<Property name="UnlockedTitles" value="T_TRA1" />
+		<Property name="UnlockedTitles" value="T_JM_WALK2" />
 	</Property>
 	<Property name="UnlockedSpecials" />
 	<Property name="UnlockedSeasonRewards" />
