@@ -628,6 +628,7 @@
 		<Property name="SeenProducts" value="S_ROOF1" />
 		<Property name="SeenProducts" value="TRA_EXOTICS3" />
 		<Property name="SeenProducts" value="WEAP_INV_TOKEN" />
+		<Property name="SeenProducts" value="€€îýª°#44033" />
 		<Property name="SeenProducts" value="€ˆá|¹T#00000" />
 		<Property name="SeenProducts" value="S_MACHINE0" />
 		<Property name="SeenProducts" value="U_HOTPROT1" />
@@ -1165,6 +1166,7 @@
 		<Property name="UnlockedTitles" value="T_MS_MONEY_6" />
 		<Property name="UnlockedTitles" value="T_TRA4" />
 		<Property name="UnlockedTitles" value="T_OLD" />
+		<Property name="UnlockedTitles" value="T_EXP3" />
 		<Property name="UnlockedTitles" value="T_TRA3" />
 		<Property name="UnlockedTitles" value="T_TRA5" />
 		<Property name="UnlockedTitles" value="T_MS_DIST_4" />
