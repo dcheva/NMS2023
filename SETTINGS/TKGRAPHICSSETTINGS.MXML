@@ -13,36 +13,34 @@
 	<Property name="VsyncEx" value="Triple" />
 	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
 		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="Low" />
+			<Property name="GraphicDetail" value="High" />
 		</Property>
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
-		<Property name="AmbientOcclusion" value="GTAO_Low" />
-		<Property name="AnisotropyLevel" value="8" />
-		<Property name="AntiAliasing" value="TAA_LOW" />
+		<Property name="AmbientOcclusion" value="GTAO_High" />
 	</Property>
 	<Property name="MotionBlurStrength" value="20.000000" />
 	<Property name="VignetteAndScanlines" value="true" />
