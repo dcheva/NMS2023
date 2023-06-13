@@ -1141,6 +1141,7 @@
 		<Property name="UnlockedTitles" value="T_JM_SHIPS1" />
 		<Property name="UnlockedTitles" value="T_WAR1" />
 		<Property name="UnlockedTitles" value="T_JM_RARESCAN1" />
+		<Property name="UnlockedTitles" value="T_JM_WORD1" />
 		<Property name="UnlockedTitles" value="T_JM_FIGHT1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
 		<Property name="UnlockedTitles" value="T_LORE10" />
