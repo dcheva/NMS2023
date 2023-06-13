@@ -193,6 +193,7 @@
 		<Property name="SeenTechnologies" value="STUN_GREN" />
 		<Property name="SeenTechnologies" value="UT_SCAN" />
 		<Property name="SeenTechnologies" value="UT_PULSEFUEL" />
+		<Property name="SeenTechnologies" value="WEAPSLOT_DMG6" />
 		<Property name="SeenTechnologies" value="UT_RAIL" />
 		<Property name="SeenTechnologies" value="EXOPOD_TECH3" />
 		<Property name="SeenTechnologies" value="SOLAR_SAIL" />
@@ -256,6 +257,7 @@
 		<Property name="SeenTechnologies" value="UT_SHIPDRIFT" />
 		<Property name="SeenTechnologies" value="SHIPSLOT_DMG1" />
 		<Property name="SeenTechnologies" value="SUB_LASER" />
+		<Property name="SeenTechnologies" value="WEAPSLOT_DMG2" />
 		<Property name="SeenTechnologies" value="SHIPSLOT_DMG7" />
 		<Property name="SeenTechnologies" value="EXO_PROT_RAD" />
 		<Property name="SeenTechnologies" value="CARGOSHIELD" />
@@ -274,11 +276,14 @@
 		<Property name="SeenTechnologies" value="UT_STUNDMG" />
 		<Property name="SeenTechnologies" value="MAINT_TECH3" />
 		<Property name="SeenTechnologies" value="MECH_PILOT" />
+		<Property name="SeenTechnologies" value="WEAPSLOT_DMG3" />
 		<Property name="SeenTechnologies" value="EXOPOD_TECH1" />
 		<Property name="SeenTechnologies" value="UT_WATERENERGY" />
 		<Property name="SeenTechnologies" value="GROUND_SHIELD" />
 		<Property name="SeenTechnologies" value="UT_SHIPSHOT" />
 		<Property name="SeenTechnologies" value="HDRIVEBOOST3" />
+		<Property name="SeenTechnologies" value="WEAPSLOT_DMG5" />
+		<Property name="SeenTechnologies" value="WEAPSLOT_DMG4" />
 		<Property name="SeenTechnologies" value="VEHICLE_SCAN2" />
 		<Property name="SeenTechnologies" value="UT_TRANSLATE1" />
 		<Property name="SeenTechnologies" value="BOLT" />
@@ -494,6 +499,7 @@
 		<Property name="SeenProducts" value="VENTGEM" />
 		<Property name="SeenProducts" value="U_SCANNER1" />
 		<Property name="SeenProducts" value="U_COLDPROT2" />
+		<Property name="SeenProducts" value="MECH_PROD" />
 		<Property name="SeenProducts" value="L_FLOOR_Q" />
 		<Property name="SeenProducts" value="BUILDDECAL2" />
 		<Property name="SeenProducts" value="U_SHOTGUN1" />
@@ -1087,6 +1093,7 @@
 		<Property name="UnlockedTitles" value="T_JM_FIGHT1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
 		<Property name="UnlockedTitles" value="T_LORE10" />
+		<Property name="UnlockedTitles" value="T_MS_SENT_6" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE2" />
 		<Property name="UnlockedTitles" value="T_BUILDER3" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
@@ -1109,6 +1116,7 @@
 		<Property name="UnlockedTitles" value="T_TRA4" />
 		<Property name="UnlockedTitles" value="T_OLD" />
 		<Property name="UnlockedTitles" value="T_TRA3" />
+		<Property name="UnlockedTitles" value="T_TRA5" />
 		<Property name="UnlockedTitles" value="T_MS_DIST_4" />
 		<Property name="UnlockedTitles" value="T_JM_WALK2" />
 	</Property>
