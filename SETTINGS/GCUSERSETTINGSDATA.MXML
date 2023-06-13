@@ -205,6 +205,7 @@
 		<Property name="SeenTechnologies" value="MECH_LASER1" />
 		<Property name="SeenTechnologies" value="SHIPSLOT_DMG4" />
 		<Property name="SeenTechnologies" value="MECH_FUEL" />
+		<Property name="SeenTechnologies" value="STORY_TRANSLATE" />
 		<Property name="SeenTechnologies" value="UT_SURVEY" />
 		<Property name="SeenTechnologies" value="CANNON" />
 		<Property name="SeenTechnologies" value="SHIPSHOTGUN" />
@@ -625,6 +626,7 @@
 		<Property name="SeenProducts" value="S_CHEV_WIN0" />
 		<Property name="SeenProducts" value="U_SILO_S" />
 		<Property name="SeenProducts" value="S_CANOPY_WALL2" />
+		<Property name="SeenProducts" value="€€Á•š#00000" />
 		<Property name="SeenProducts" value="S_ROOF_M_CAP" />
 		<Property name="SeenProducts" value="BUILDSAVE" />
 		<Property name="SeenProducts" value="F_GDOOR" />
