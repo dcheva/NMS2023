@@ -1093,6 +1093,7 @@
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_DISMANTLE" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_4" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_5" />
+		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_TRADE_5" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_1" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_SIGNALS" />
 	</Property>
