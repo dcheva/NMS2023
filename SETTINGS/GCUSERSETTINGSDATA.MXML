@@ -1064,6 +1064,7 @@
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SIGNALS" />
 	</Property>
 	<Property name="UnlockedWikiTopics">
+		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_TRADE_7" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_6" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_FLEETS" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_6" />
