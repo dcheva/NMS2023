@@ -414,6 +414,7 @@
 		<Property name="SeenProducts" value="F_ROOF1" />
 		<Property name="SeenProducts" value="S_FLOOR" />
 		<Property name="SeenProducts" value="DECAL_JELLY" />
+		<Property name="SeenProducts" value="€€9´’B#00000" />
 		<Property name="SeenProducts" value="U_UNW3" />
 		<Property name="SeenProducts" value="S_CRATE4" />
 		<Property name="SeenProducts" value="WALLFAN" />
@@ -495,6 +496,7 @@
 		<Property name="SeenProducts" value="BUILDDECALSIMP1" />
 		<Property name="SeenProducts" value="FLAG1" />
 		<Property name="SeenProducts" value="S_RAMP_Q_TOP" />
+		<Property name="SeenProducts" value=" €ŽXO	#14355" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE0" />
 		<Property name="SeenProducts" value="CONTAINER7" />
 		<Property name="SeenProducts" value="VENTGEM" />
@@ -538,6 +540,7 @@
 		<Property name="SeenProducts" value="S_CHEV_WALL_H_C" />
 		<Property name="SeenProducts" value="BUILDANTIMATTER" />
 		<Property name="SeenProducts" value="PYRAMIDSHAPE" />
+		<Property name="SeenProducts" value="U_TGRENADE2" />
 		<Property name="SeenProducts" value="S_BARRIER" />
 		<Property name="SeenProducts" value="F_ROOF4" />
 		<Property name="SeenProducts" value="BUILDDECALSIMP4" />
@@ -601,6 +604,7 @@
 		<Property name="SeenProducts" value="U_BIOGENERATOR" />
 		<Property name="SeenProducts" value="U_SHIPSHOT4" />
 		<Property name="SeenProducts" value="MAGNET" />
+		<Property name="SeenProducts" value="U_LASER4" />
 		<Property name="SeenProducts" value="S_FABROLLPILE0" />
 		<Property name="SeenProducts" value="T_ROOF2" />
 		<Property name="SeenProducts" value="FOOD_P_TOXWILD" />
@@ -679,6 +683,7 @@
 		<Property name="SeenProducts" value="U_TGRENADEX" />
 		<Property name="SeenProducts" value="T_ROOF_IC" />
 		<Property name="SeenProducts" value="S_TRIFLOOR" />
+		<Property name="SeenProducts" value="U_BOLT2" />
 		<Property name="SeenProducts" value="F_WALL_WIN1" />
 		<Property name="SeenProducts" value="GARAGE_L" />
 		<Property name="SeenProducts" value="TRA_ENERGY2" />
@@ -1104,6 +1109,7 @@
 		<Property name="UnlockedTitles" value="T_BUILDER3" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
 		<Property name="UnlockedTitles" value="T_MS_FIENDS_7" />
+		<Property name="UnlockedTitles" value="T_MS_ENEMIES_6" />
 		<Property name="UnlockedTitles" value="T_TRA1" />
 		<Property name="UnlockedTitles" value="T_DIG1" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
