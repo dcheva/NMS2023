@@ -608,6 +608,7 @@
 		<Property name="SeenProducts" value="S_POSTER8" />
 		<Property name="SeenProducts" value="FLOORMAT1" />
 		<Property name="SeenProducts" value="MICROCHIP" />
+		<Property name="SeenProducts" value="€‚ÑPXË#75395" />
 		<Property name="SeenProducts" value="S_ROOF1" />
 		<Property name="SeenProducts" value="TRA_EXOTICS3" />
 		<Property name="SeenProducts" value="S_MACHINE0" />
@@ -621,6 +622,7 @@
 		<Property name="SeenProducts" value="S_CHEV_WIN0" />
 		<Property name="SeenProducts" value="U_SILO_S" />
 		<Property name="SeenProducts" value="S_CANOPY_WALL2" />
+		<Property name="SeenProducts" value="€€Á•š#00000" />
 		<Property name="SeenProducts" value="S_ROOF_M_CAP" />
 		<Property name="SeenProducts" value="BUILDSAVE" />
 		<Property name="SeenProducts" value="F_GDOOR" />
@@ -1102,6 +1104,7 @@
 		<Property name="UnlockedTitles" value="T_TRA1" />
 		<Property name="UnlockedTitles" value="T_DIG1" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
+		<Property name="UnlockedTitles" value="T_PET1" />
 		<Property name="UnlockedTitles" value="T_JM_WALK1" />
 		<Property name="UnlockedTitles" value="T_JM_MINSCAN1" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_10" />
