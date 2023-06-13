@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Data template="TkGraphicsSettings">
 	<Property name="Version" value="4" />
-	<Property name="FullScreen" value="false" />
-	<Property name="Borderless" value="true" />
+	<Property name="FullScreen" value="true" />
+	<Property name="Borderless" value="false" />
 	<Property name="Monitor" value="0" />
 	<Property name="MonitorNames">
 		<Property name="MonitorNames" value="0|NVIDIA GeForce GTX 1660|Generic PnP Monitor" />
@@ -41,6 +41,7 @@
 		</Property>
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
 		<Property name="AmbientOcclusion" value="GTAO_High" />
+		<Property name="AnisotropyLevel" value="8" />
 	</Property>
 	<Property name="MotionBlurStrength" value="20.000000" />
 	<Property name="VignetteAndScanlines" value="true" />
