@@ -805,6 +805,7 @@
 		<Property name="SeenProducts" value="FRIGATE_FUEL_3" />
 		<Property name="SeenProducts" value="S_FLAG6" />
 		<Property name="SeenProducts" value="CORRIDORL" />
+		<Property name="SeenProducts" value="A1S6_STARMAP" />
 		<Property name="SeenProducts" value="F_FLOOR_Q" />
 		<Property name="SeenProducts" value="CORRIDORT" />
 		<Property name="SeenProducts" value="F_GFLOOR" />
@@ -1108,6 +1109,7 @@
 		<Property name="UnlockedTitles" value="T_PET1" />
 		<Property name="UnlockedTitles" value="T_JM_WALK1" />
 		<Property name="UnlockedTitles" value="T_JM_MINSCAN1" />
+		<Property name="UnlockedTitles" value="T_TRA6" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_10" />
 		<Property name="UnlockedTitles" value="T_TRA2" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE3" />
