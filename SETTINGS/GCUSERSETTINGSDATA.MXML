@@ -516,6 +516,7 @@
 		<Property name="SeenProducts" value="T_ROOF_E_CAP" />
 		<Property name="SeenProducts" value="€€JÄ=#00000" />
 		<Property name="SeenProducts" value="ULTRAPROD1" />
+		<Property name="SeenProducts" value="POLICE_TOKEN" />
 		<Property name="SeenProducts" value="GEODE_CRYSTAL" />
 		<Property name="SeenProducts" value="CUBEWINDOWOVAL" />
 		<Property name="SeenProducts" value="F_ARCH_H" />
@@ -576,6 +577,7 @@
 		<Property name="SeenProducts" value="BUILDLANDINGPAD" />
 		<Property name="SeenProducts" value="S_BRICKSWRAPPED" />
 		<Property name="SeenProducts" value="HYPERFUEL2" />
+		<Property name="SeenProducts" value="SALVAGE_TECH10" />
 		<Property name="SeenProducts" value="S_CRATE0" />
 		<Property name="SeenProducts" value="S_BAR_H" />
 		<Property name="SeenProducts" value="TRA_EXOTICS2" />
@@ -891,6 +893,7 @@
 		<Property name="SeenProducts" value="TRA_MINERALS1" />
 		<Property name="SeenProducts" value="BANNER_SLIMY" />
 		<Property name="SeenProducts" value="€‚XRè"#12175" />
+		<Property name="SeenProducts" value="SALVAGE_TECH9" />
 		<Property name="SeenProducts" value="BUILDCHAIR2" />
 		<Property name="SeenProducts" value="S_ARCH_H" />
 		<Property name="SeenProducts" value="TRA_CURIO2" />
@@ -945,6 +948,7 @@
 		<Property name="SeenProducts" value="BUILDDECALSIMP3" />
 		<Property name="SeenProducts" value="BUILDCANRACK" />
 		<Property name="SeenProducts" value="S_CRATE4OPEN" />
+		<Property name="SeenProducts" value="SALVAGE_TECH8" />
 		<Property name="SeenProducts" value="BUILDLOCKER" />
 		<Property name="SeenProducts" value="DRESSING_TABLE" />
 		<Property name="SeenProducts" value="T_ROOF7" />
@@ -1023,9 +1027,11 @@
 		<Property name="SeenProducts" value="COOKER" />
 		<Property name="SeenProducts" value="F_ROOF_M" />
 		<Property name="SeenProducts" value="BUILDSIMPLEDESK" />
+		<Property name="SeenProducts" value="TRA_COMPONENT5" />
 		<Property name="SeenProducts" value="U_POWERLINE" />
 		<Property name="SeenProducts" value="FRE_ROOM_REFINE" />
 		<Property name="SeenProducts" value="SCRAP_TECH" />
+		<Property name="SeenProducts" value="SALVAGE_TECH6" />
 		<Property name="SeenProducts" value="S_ROOF_E_CAP" />
 		<Property name="SeenProducts" value="U_ENERGY3" />
 		<Property name="SeenProducts" value="TRA_ENERGY3" />
