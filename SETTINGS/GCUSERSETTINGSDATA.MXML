@@ -456,6 +456,7 @@
 		<Property name="SeenProducts" value="GEODE_RARE" />
 		<Property name="SeenProducts" value="COMPUTER" />
 		<Property name="SeenProducts" value="U_CANNON2" />
+		<Property name="SeenProducts" value="FOOD_V_COW" />
 		<Property name="SeenProducts" value="U_SOLAR_S" />
 		<Property name="SeenProducts" value="BUILDDECALNUM0" />
 		<Property name="SeenProducts" value="TRA_COMMODITY2" />
