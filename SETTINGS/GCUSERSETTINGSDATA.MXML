@@ -518,6 +518,7 @@
 		<Property name="SeenProducts" value="T_ROOF0" />
 		<Property name="SeenProducts" value="BUILDDECALNUM7" />
 		<Property name="SeenProducts" value="U_SHIELDBOOST2" />
+		<Property name="SeenProducts" value="U_ENERGY2" />
 		<Property name="SeenProducts" value="TRA_COMMODITY3" />
 		<Property name="SeenProducts" value="S_HANGLAMP1" />
 		<Property name="SeenProducts" value="U_EXTRACTOR_S" />
@@ -729,6 +730,7 @@
 		<Property name="SeenProducts" value="T_WALL_WINDOW" />
 		<Property name="SeenProducts" value="WALLLIGHTRED" />
 		<Property name="SeenProducts" value="BUILDGASHARVEST" />
+		<Property name="SeenProducts" value="U_LASER3" />
 		<Property name="SeenProducts" value="BUILDSOFA" />
 		<Property name="SeenProducts" value="PLANTERMEGA" />
 		<Property name="SeenProducts" value="TRA_EXOTICS4" />
@@ -741,6 +743,7 @@
 		<Property name="SeenProducts" value="BUILDDECALVIS2" />
 		<Property name="SeenProducts" value="WALLLIGHTBLUE" />
 		<Property name="SeenProducts" value="BUILDDECALVIS5" />
+		<Property name="SeenProducts" value="U_SMG2" />
 		<Property name="SeenProducts" value="BUILDBEACON" />
 		<Property name="SeenProducts" value="S_POSTER3" />
 		<Property name="SeenProducts" value="CAVECUBE" />
@@ -993,6 +996,7 @@
 		<Property name="SeenProducts" value="F_ROOF7" />
 		<Property name="SeenProducts" value="S_POSTER5" />
 		<Property name="SeenProducts" value="BIO" />
+		<Property name="SeenProducts" value="U_HOTPROT2" />
 		<Property name="SeenProducts" value="T_ROOF_E_Q" />
 		<Property name="SeenProducts" value="BUILDLCRATE" />
 		<Property name="SeenProducts" value="CARBON_SEAL" />
