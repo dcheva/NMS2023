@@ -735,6 +735,7 @@
 		<Property name="SeenProducts" value="MAINROOMCUBE" />
 		<Property name="SeenProducts" value="FLAG2" />
 		<Property name="SeenProducts" value="FARMPROD8" />
+		<Property name="SeenProducts" value="SALVAGE_TECH7" />
 		<Property name="SeenProducts" value="S_WALL_SUPPORTS" />
 		<Property name="SeenProducts" value="S_RUG1" />
 		<Property name="SeenProducts" value="WALLFLAG2" />
