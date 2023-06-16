@@ -501,7 +501,6 @@
 		<Property name="SeenProducts" value="BUILDDECALSIMP1" />
 		<Property name="SeenProducts" value="FLAG1" />
 		<Property name="SeenProducts" value="S_RAMP_Q_TOP" />
-		<Property name="SeenProducts" value=" €ŽXO#14355" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE0" />
 		<Property name="SeenProducts" value="CONTAINER7" />
 		<Property name="SeenProducts" value="VENTGEM" />
@@ -1140,6 +1139,7 @@
 		<Property name="UnlockedTitles" value="T_JM_WORD1" />
 		<Property name="UnlockedTitles" value="T_JM_FIGHT1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
+		<Property name="UnlockedTitles" value="T_MS_WARPS_1" />
 		<Property name="UnlockedTitles" value="T_LORE10" />
 		<Property name="UnlockedTitles" value="T_MS_SENT_6" />
 		<Property name="UnlockedTitles" value="T_WAR_GUILD1" />
