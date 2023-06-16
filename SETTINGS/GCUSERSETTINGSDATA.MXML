@@ -564,6 +564,7 @@
 		<Property name="SeenProducts" value="FIENDCORE" />
 		<Property name="SeenProducts" value="S_FENCE3" />
 		<Property name="SeenProducts" value="U_SHIPMINI4" />
+		<Property name="SeenProducts" value="FOOD_V_FLYER" />
 		<Property name="SeenProducts" value="T_WALL_H" />
 		<Property name="SeenProducts" value="S_PLANTER_M" />
 		<Property name="SeenProducts" value="TRA_ALLOY5" />
@@ -618,6 +619,7 @@
 		<Property name="SeenProducts" value="U_SHIPSHIELD2" />
 		<Property name="SeenProducts" value="CORRIDORX_WATER" />
 		<Property name="SeenProducts" value="F_FLOOR" />
+		<Property name="SeenProducts" value="EYEBALL" />
 		<Property name="SeenProducts" value="TRA_TECH1" />
 		<Property name="SeenProducts" value="S_POSTER9" />
 		<Property name="SeenProducts" value="U_BIOGENERATOR" />
