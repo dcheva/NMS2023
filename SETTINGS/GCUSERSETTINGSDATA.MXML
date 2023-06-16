@@ -1163,6 +1163,7 @@
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
 		<Property name="UnlockedTitles" value="T_PET1" />
 		<Property name="UnlockedTitles" value="T_JM_WALK1" />
+		<Property name="UnlockedTitles" value="T_JM_CHAT1" />
 		<Property name="UnlockedTitles" value="T_JM_MINSCAN1" />
 		<Property name="UnlockedTitles" value="T_TRA6" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_10" />
