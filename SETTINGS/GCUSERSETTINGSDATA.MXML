@@ -156,6 +156,7 @@
 		<Property name="SeenSubstances" value="TECHFRAG_R" />
 		<Property name="SeenSubstances" value="PLANT_HOT" />
 		<Property name="SeenSubstances" value="SPACEGUNK4" />
+		<Property name="SeenSubstances" value="PLANT_LUSH" />
 		<Property name="SeenSubstances" value="SPACEGUNK5" />
 		<Property name="SeenSubstances" value="COLD1" />
 		<Property name="SeenSubstances" value="EX_YELLOW" />
