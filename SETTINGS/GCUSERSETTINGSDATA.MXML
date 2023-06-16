@@ -160,6 +160,7 @@
 		<Property name="SeenSubstances" value="SPACEGUNK5" />
 		<Property name="SeenSubstances" value="COLD1" />
 		<Property name="SeenSubstances" value="EX_YELLOW" />
+		<Property name="SeenSubstances" value="PLANT_WATER" />
 		<Property name="SeenSubstances" value="RADIO1" />
 		<Property name="SeenSubstances" value="PLANT_TOXIC" />
 		<Property name="SeenSubstances" value="WGUILD_STAND_UP" />
