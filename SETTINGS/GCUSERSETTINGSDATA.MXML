@@ -177,6 +177,7 @@
 		<Property name="SeenSubstances" value="OXYGEN" />
 		<Property name="SeenSubstances" value="PLANT_DUST" />
 		<Property name="SeenSubstances" value="PLANT_SNOW" />
+		<Property name="SeenSubstances" value="TGUILD_STAND_UP" />
 		<Property name="SeenSubstances" value="ROCKETSUB" />
 		<Property name="SeenSubstances" value="ASTEROID2" />
 		<Property name="SeenSubstances" value="ROBOT2" />
@@ -1162,6 +1163,7 @@
 		<Property name="UnlockedTitles" value="T_JM_UNITS1" />
 		<Property name="UnlockedTitles" value="T_BUILDER1" />
 		<Property name="UnlockedTitles" value="T_TRA4" />
+		<Property name="UnlockedTitles" value="T_TRA_GUILD1" />
 		<Property name="UnlockedTitles" value="T_EXP3" />
 		<Property name="UnlockedTitles" value="T_TRA3" />
 		<Property name="UnlockedTitles" value="T_MS_WORDS_4" />
