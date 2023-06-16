@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Data template="TkGraphicsSettings">
 	<Property name="Version" value="4" />
-	<Property name="FullScreen" value="true" />
-	<Property name="Borderless" value="false" />
+	<Property name="FullScreen" value="false" />
+	<Property name="Borderless" value="true" />
 	<Property name="Monitor" value="0" />
 	<Property name="MonitorNames">
 		<Property name="MonitorNames" value="0|NVIDIA GeForce GTX 1660|Generic PnP Monitor" />
 	</Property>
 	<Property name="ResolutionWidth" value="1920" />
 	<Property name="ResolutionHeight" value="1080" />
-	<Property name="ResolutionScale" value="0.850000" />
+	<Property name="ResolutionScale" value="1.000000" />
 	<Property name="VsyncEx" value="Triple" />
 	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
 		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml" />
@@ -25,12 +25,12 @@
 		<Property name="AmbientOcclusion" value="GTAO_Medium" />
 		<Property name="AnisotropyLevel" value="2" />
 	</Property>
-	<Property name="MotionBlurStrength" value="50.000000" />
+	<Property name="MotionBlurStrength" value="180.000000" />
 	<Property name="VignetteAndScanlines" value="true" />
 	<Property name="FoVOnFoot" value="100.000000" />
 	<Property name="FoVInShip" value="90.000000" />
 	<Property name="Brightness" value="50" />
-	<Property name="MaxframeRate" value="50" />
+	<Property name="MaxframeRate" value="60" />
 	<Property name="NumHighThreads" value="4" />
 	<Property name="NumLowThreads" value="3" />
 	<Property name="TextureStreamingVk" value="Auto" />
