@@ -1148,6 +1148,7 @@
 		<Property name="UnlockedTitles" value="T_BUILDER3" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
 		<Property name="UnlockedTitles" value="T_MS_FIENDS_7" />
+		<Property name="UnlockedTitles" value="T_BLACK_HOL" />
 		<Property name="UnlockedTitles" value="T_MS_ENEMIES_6" />
 		<Property name="UnlockedTitles" value="T_TRA1" />
 		<Property name="UnlockedTitles" value="T_DIG1" />
