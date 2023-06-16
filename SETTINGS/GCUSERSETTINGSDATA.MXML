@@ -1187,6 +1187,7 @@
 		<Property name="UnlockedTitles" value="T_EXP3" />
 		<Property name="UnlockedTitles" value="T_TRA3" />
 		<Property name="UnlockedTitles" value="T_TRA5" />
+		<Property name="UnlockedTitles" value="T_MS_PPROD_5" />
 		<Property name="UnlockedTitles" value="T_MS_DIST_4" />
 		<Property name="UnlockedTitles" value="T_JM_WALK2" />
 	</Property>
