@@ -1169,8 +1169,10 @@
 		<Property name="UnlockedTitles" value="T_DEFAULT" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE1" />
 		<Property name="UnlockedTitles" value="T_WAR1" />
+		<Property name="UnlockedTitles" value="T_JM_WALK3" />
 		<Property name="UnlockedTitles" value="T_JM_FIGHT1" />
 		<Property name="UnlockedTitles" value="T_MS_WARPS_1" />
+		<Property name="UnlockedTitles" value="T_MS_DIST_10" />
 		<Property name="UnlockedTitles" value="T_LORE10" />
 		<Property name="UnlockedTitles" value="T_JM_ZOO2" />
 		<Property name="UnlockedTitles" value="T_MS_SENT_6" />
