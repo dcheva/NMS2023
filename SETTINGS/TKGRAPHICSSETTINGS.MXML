@@ -25,7 +25,7 @@
 		<Property name="AmbientOcclusion" value="GTAO_Medium" />
 		<Property name="AnisotropyLevel" value="2" />
 	</Property>
-	<Property name="MotionBlurStrength" value="20.000000" />
+	<Property name="MotionBlurStrength" value="50.000000" />
 	<Property name="VignetteAndScanlines" value="true" />
 	<Property name="FoVOnFoot" value="100.000000" />
 	<Property name="FoVInShip" value="90.000000" />
