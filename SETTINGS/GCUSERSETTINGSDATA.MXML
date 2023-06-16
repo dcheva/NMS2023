@@ -1138,6 +1138,7 @@
 		<Property name="UnlockedTitles" value="T_MS_WORDS_4" />
 		<Property name="UnlockedTitles" value="T_EXP1" />
 		<Property name="UnlockedTitles" value="T_BUILDER2" />
+		<Property name="UnlockedTitles" value="T_MECH" />
 		<Property name="UnlockedTitles" value="T_DEFAULT" />
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE1" />
 		<Property name="UnlockedTitles" value="T_WAR2" />
