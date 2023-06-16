@@ -383,6 +383,7 @@
 		<Property name="SeenProducts" value="U_EXOGUN1" />
 		<Property name="SeenProducts" value="S_ROOF_C" />
 		<Property name="SeenProducts" value="U_JETBOOST2" />
+		<Property name="SeenProducts" value="CLAMPEARL" />
 		<Property name="SeenProducts" value="S_GAZEBO0" />
 		<Property name="SeenProducts" value="SERVERSTACK" />
 		<Property name="SeenProducts" value="SLIME_MED" />
