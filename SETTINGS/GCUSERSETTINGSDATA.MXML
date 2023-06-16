@@ -501,6 +501,7 @@
 		<Property name="SeenProducts" value="BUILDDECALSIMP1" />
 		<Property name="SeenProducts" value="FLAG1" />
 		<Property name="SeenProducts" value="S_RAMP_Q_TOP" />
+		<Property name="SeenProducts" value=" €ŽXO	#14355" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE0" />
 		<Property name="SeenProducts" value="CONTAINER7" />
 		<Property name="SeenProducts" value="VENTGEM" />
@@ -1202,7 +1203,7 @@
 	<Property name="HeadBob" value="true" />
 	<Property name="VRHeadBob" value="false" />
 	<Property name="VRShowBody" value="false" />
-	<Property name="UseCharacterHeightForCamera" value="false" />
+	<Property name="UseCharacterHeightForCamera" value="true" />
 	<Property name="BaseComplexityLimitsEnabled" value="true" />
 	<Property name="EnableLargeLobbies" value="true" />
 	<Property name="FireteamSessionCount" value="0" />
@@ -1222,7 +1223,7 @@
 	<Property name="EyeTracking" value="None" />
 	<Property name="GyroSettings" value="GcGyroSettingsData.xml" />
 	<Property name="Language" value="TkLanguages" />
-	<Property name="AutoRotateThirdPersonPlayerCamera" value="true" />
+	<Property name="AutoRotateThirdPersonPlayerCamera" value="false" />
 	<Property name="DominantHand" value="GcHand.xml" />
 	<Property name="HazardEffectsStrength" value="1.000000" />
 	<Property name="QuickMenuBuildMenuSwap" value="false" />
