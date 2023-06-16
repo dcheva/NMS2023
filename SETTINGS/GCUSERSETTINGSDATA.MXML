@@ -730,6 +730,7 @@
 		<Property name="SeenProducts" value="FRE_ROOM_STORE5" />
 		<Property name="SeenProducts" value="T_WALL_Q_H" />
 		<Property name="SeenProducts" value="F_ROOF6" />
+		<Property name="SeenProducts" value="FOOD_M_FISH" />
 		<Property name="SeenProducts" value="TRA_COMMODITY4" />
 		<Property name="SeenProducts" value="S_WALL_WIN3" />
 		<Property name="SeenProducts" value="MONITORDESK" />
@@ -1008,6 +1009,7 @@
 		<Property name="SeenProducts" value="S_ROOF_M" />
 		<Property name="SeenProducts" value="WALLLIGHTPINK" />
 		<Property name="SeenProducts" value="S_ROOF2" />
+		<Property name="SeenProducts" value="FOOD_M_BEETLE" />
 		<Property name="SeenProducts" value="U_TRANSISTOR2" />
 		<Property name="SeenProducts" value="F_WALL_Q1" />
 		<Property name="SeenProducts" value="U_EXO_ENG3" />
