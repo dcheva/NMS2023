@@ -437,6 +437,7 @@
 		<Property name="SeenProducts" value="WALLSCREENB" />
 		<Property name="SeenProducts" value="S_PAN0" />
 		<Property name="SeenProducts" value="CUBEFLOOR" />
+		<Property name="SeenProducts" value="U_GRENADEX" />
 		<Property name="SeenProducts" value="SCRAP_WEAP" />
 		<Property name="SeenProducts" value="S_TABLELAMP0" />
 		<Property name="SeenProducts" value="TRA_COMMODITY1" />
