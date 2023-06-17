@@ -22,10 +22,11 @@
 		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
-		<Property name="AmbientOcclusion" value="GTAO_Medium" />
+		<Property name="AmbientOcclusion" value="GTAO_Low" />
 		<Property name="AnisotropyLevel" value="2" />
+		<Property name="AntiAliasing" value="TAA_LOW" />
 	</Property>
-	<Property name="MotionBlurStrength" value="180.000000" />
+	<Property name="MotionBlurStrength" value="100.000000" />
 	<Property name="VignetteAndScanlines" value="true" />
 	<Property name="FoVOnFoot" value="100.000000" />
 	<Property name="FoVInShip" value="100.000000" />

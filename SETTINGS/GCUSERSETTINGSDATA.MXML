@@ -1237,8 +1237,8 @@
 	<Property name="CrossPlatform" value="true" />
 	<Property name="TemperatureUnit" value="C" />
 	<Property name="UseOldMouseFlight" value="false" />
-	<Property name="LastSeenCommunityMission" value="-1" />
-	<Property name="LastSeenCommunityMissionTier" value="-1" />
+	<Property name="LastSeenCommunityMission" value="77" />
+	<Property name="LastSeenCommunityMissionTier" value="5" />
 	<Property name="MovementMode" value="Teleporter" />
 	<Property name="MovementDirectionPad" value="GcMovementDirection" />
 	<Property name="MovementDirectionHands" value="GcMovementDirection" />
