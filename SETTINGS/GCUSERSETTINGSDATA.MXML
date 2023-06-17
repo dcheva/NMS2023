@@ -509,6 +509,7 @@
 		<Property name="SeenProducts" value="BUILDFLATPANEL" />
 		<Property name="SeenProducts" value="S_HANGLAMP3" />
 		<Property name="SeenProducts" value="BUILDDECALSIMP1" />
+		<Property name="SeenProducts" value="U_PULSE3" />
 		<Property name="SeenProducts" value="FLAG1" />
 		<Property name="SeenProducts" value="S_RAMP_Q_TOP" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE0" />
@@ -941,6 +942,7 @@
 		<Property name="SeenProducts" value="S_ARCH_H" />
 		<Property name="SeenProducts" value="TRA_CURIO2" />
 		<Property name="SeenProducts" value="FARMPROD5" />
+		<Property name="SeenProducts" value="U_SHIPLAS2" />
 		<Property name="SeenProducts" value="FARMPROD9" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE4" />
 		<Property name="SeenProducts" value="BUILDDECAL" />
