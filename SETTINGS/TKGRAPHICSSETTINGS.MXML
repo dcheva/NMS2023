@@ -9,7 +9,7 @@
 	</Property>
 	<Property name="ResolutionWidth" value="1920" />
 	<Property name="ResolutionHeight" value="1080" />
-	<Property name="ResolutionScale" value="1.000000" />
+	<Property name="ResolutionScale" value="0.750000" />
 	<Property name="VsyncEx" value="Triple" />
 	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
 		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml" />
@@ -23,8 +23,8 @@
 		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
 		<Property name="AmbientOcclusion" value="GTAO_Low" />
-		<Property name="AnisotropyLevel" value="2" />
-		<Property name="AntiAliasing" value="TAA_LOW" />
+		<Property name="AnisotropyLevel" value="8" />
+		<Property name="AntiAliasing" value="None" />
 	</Property>
 	<Property name="MotionBlurStrength" value="100.000000" />
 	<Property name="VignetteAndScanlines" value="true" />
