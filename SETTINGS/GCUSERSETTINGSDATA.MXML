@@ -7,8 +7,8 @@
 	<Property name="HUDHidden" value="false" />
 	<Property name="Vibration" value="true" />
 	<Property name="ScreenBrightness" value="50" />
-	<Property name="MusicVolume" value="80" />
-	<Property name="SfxVolume" value="80" />
+	<Property name="MusicVolume" value="0" />
+	<Property name="SfxVolume" value="75" />
 	<Property name="LookSensitivityMode1" value="35" />
 	<Property name="LookSensitivityMode2" value="25" />
 	<Property name="FlightSensitivityMode1" value="100" />
@@ -501,6 +501,7 @@
 		<Property name="SeenProducts" value="PIPE" />
 		<Property name="SeenProducts" value="T_ROOF6" />
 		<Property name="SeenProducts" value="OCTACABINET" />
+		<Property name="SeenProducts" value="U_PULSE2" />
 		<Property name="SeenProducts" value="CUBEGLASS" />
 		<Property name="SeenProducts" value="CRATELCYLINDER" />
 		<Property name="SeenProducts" value="S_BAR_C" />
@@ -644,6 +645,7 @@
 		<Property name="SeenProducts" value="S_ROOF1" />
 		<Property name="SeenProducts" value="TRA_EXOTICS3" />
 		<Property name="SeenProducts" value="WEAP_INV_TOKEN" />
+		<Property name="SeenProducts" value="U_RAIL4" />
 		<Property name="SeenProducts" value="S_MACHINE0" />
 		<Property name="SeenProducts" value="U_HOTPROT1" />
 		<Property name="SeenProducts" value="FRIGATE_FUEL_2" />
@@ -660,6 +662,7 @@
 		<Property name="SeenProducts" value="BUILDSAVE" />
 		<Property name="SeenProducts" value="F_GDOOR" />
 		<Property name="SeenProducts" value="S_WALLHANGING2" />
+		<Property name="SeenProducts" value="U_TGRENADE4" />
 		<Property name="SeenProducts" value="NAV_DATA" />
 		<Property name="SeenProducts" value="S_SHOVEL" />
 		<Property name="SeenProducts" value="GEODE_CAVE" />
@@ -1267,7 +1270,7 @@
 		<Property name="UpgradedUsers" value="2535415199201437_Win" />
 		<Property name="UpgradedUsers" value="" />
 	</Property>
-	<Property name="AllowWhiteScreenTransitions" value="true" />
+	<Property name="AllowWhiteScreenTransitions" value="false" />
 	<Property name="AccessibleText" value="false" />
 	<Property name="AutoScanDiscoveries" value="false" />
 	<Property name="SprintScanSwap" value="false" />

@@ -31,7 +31,7 @@
 	<Property name="FoVOnFoot" value="100.000000" />
 	<Property name="FoVInShip" value="100.000000" />
 	<Property name="Brightness" value="50" />
-	<Property name="MaxframeRate" value="60" />
+	<Property name="MaxframeRate" value="50" />
 	<Property name="NumHighThreads" value="4" />
 	<Property name="NumLowThreads" value="3" />
 	<Property name="TextureStreamingVk" value="Auto" />
