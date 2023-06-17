@@ -726,6 +726,7 @@
 		<Property name="SeenProducts" value="GARAGE_L" />
 		<Property name="SeenProducts" value="TRA_ENERGY2" />
 		<Property name="SeenProducts" value="U_SHIPSHOT1" />
+		<Property name="SeenProducts" value="FOOD_P_COLDWILD" />
 		<Property name="SeenProducts" value="S_CHEV_WIN1" />
 		<Property name="SeenProducts" value="BUILDPAVING_BIG" />
 		<Property name="SeenProducts" value="FOOD_PIE_CRAB" />
