@@ -835,6 +835,7 @@
 		<Property name="SeenProducts" value="S_WALL" />
 		<Property name="SeenProducts" value="TRA_CURIO1" />
 		<Property name="SeenProducts" value="GEODE_SPACE" />
+		<Property name="SeenProducts" value="U_SCANNERX" />
 		<Property name="SeenProducts" value="MEGAPROD3" />
 		<Property name="SeenProducts" value="COMPOUND3" />
 		<Property name="SeenProducts" value="SHIPBRAIN" />
@@ -940,6 +941,7 @@
 		<Property name="SeenProducts" value="T_WALL" />
 		<Property name="SeenProducts" value="U_GENERATOR_S" />
 		<Property name="SeenProducts" value="T_RAMP_Q_TOP" />
+		<Property name="SeenProducts" value="U_HAZARDX" />
 		<Property name="SeenProducts" value="S_CANOPY_WALL1" />
 		<Property name="SeenProducts" value="S_ROOF_E_Q" />
 		<Property name="SeenProducts" value="AM_HOUSING" />
