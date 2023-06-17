@@ -12,18 +12,34 @@
 	<Property name="ResolutionScale" value="0.750000" />
 	<Property name="VsyncEx" value="Off" />
 	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
-		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml" />
-		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml" />
-		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml" />
+		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
 		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
-		<Property name="AnisotropyLevel" value="2" />
-		<Property name="AntiAliasing" value="TAA_LOW" />
+		<Property name="AnisotropyLevel" value="1" />
+		<Property name="AntiAliasing" value="None" />
 		<Property name="AmbientOcclusion" value="GTAO_Low" />
 	</Property>
 	<Property name="MotionBlurStrength" value="100.000000" />
@@ -31,7 +47,7 @@
 	<Property name="FoVOnFoot" value="100.000000" />
 	<Property name="FoVInShip" value="100.000000" />
 	<Property name="Brightness" value="50" />
-	<Property name="MaxframeRate" value="60" />
+	<Property name="MaxframeRate" value="50" />
 	<Property name="NumHighThreads" value="4" />
 	<Property name="NumLowThreads" value="3" />
 	<Property name="TextureStreamingVk" value="Auto" />
