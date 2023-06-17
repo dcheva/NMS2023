@@ -342,6 +342,7 @@
 		<Property name="SeenProducts" value="U_UNW2" />
 		<Property name="SeenProducts" value="FOOD_M_MEAT" />
 		<Property name="SeenProducts" value="FARMPROD4" />
+		<Property name="SeenProducts" value="U_EXOBOOST3" />
 		<Property name="SeenProducts" value="S_CHEV_WIN2" />
 		<Property name="SeenProducts" value="JELLY" />
 		<Property name="SeenProducts" value="TRA_MINERALS2" />
@@ -812,6 +813,7 @@
 		<Property name="SeenProducts" value="S_BARTAPS0" />
 		<Property name="SeenProducts" value="CYLINDERSHAPE" />
 		<Property name="SeenProducts" value="FOOD_M_DIGGER" />
+		<Property name="SeenProducts" value="U_EXOBOOST4" />
 		<Property name="SeenProducts" value="ARTIFACT_KEY" />
 		<Property name="SeenProducts" value="DRAWS" />
 		<Property name="SeenProducts" value="BUILDLIGHT" />
@@ -917,6 +919,7 @@
 		<Property name="SeenProducts" value="T_CHEV_WALL" />
 		<Property name="SeenProducts" value="U_SHIPBLOB3" />
 		<Property name="SeenProducts" value="S_POSTER15" />
+		<Property name="SeenProducts" value="U_HYPER4" />
 		<Property name="SeenProducts" value="WALLSCREENB2" />
 		<Property name="SeenProducts" value="O2_HARVESTER" />
 		<Property name="SeenProducts" value="BUILDBED" />
@@ -1070,6 +1073,7 @@
 		<Property name="SeenProducts" value="U_COLDPROT1" />
 		<Property name="SeenProducts" value="DECAL_SKULL" />
 		<Property name="SeenProducts" value="COOKER" />
+		<Property name="SeenProducts" value="U_EXOGUN2" />
 		<Property name="SeenProducts" value="F_ROOF_M" />
 		<Property name="SeenProducts" value="BUILDSIMPLEDESK" />
 		<Property name="SeenProducts" value="TRA_COMPONENT5" />
