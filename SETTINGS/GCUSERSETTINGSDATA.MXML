@@ -422,7 +422,6 @@
 		<Property name="SeenProducts" value="T_WALL_Q_H1" />
 		<Property name="SeenProducts" value="F_WALL_H" />
 		<Property name="SeenProducts" value="S_BURNER0" />
-		<Property name="SeenProducts" value="€€âG¥#95545" />
 		<Property name="SeenProducts" value="U_SHIPGUN1" />
 		<Property name="SeenProducts" value="S_WALLDIAGONAL" />
 		<Property name="SeenProducts" value="F_ROOF1" />
@@ -518,7 +517,6 @@
 		<Property name="SeenProducts" value="U_COLDPROT2" />
 		<Property name="SeenProducts" value="MECH_PROD" />
 		<Property name="SeenProducts" value="U_EXOLAS1" />
-		<Property name="SeenProducts" value="€€âG¥#42548" />
 		<Property name="SeenProducts" value="L_FLOOR_Q" />
 		<Property name="SeenProducts" value="BUILDDECAL2" />
 		<Property name="SeenProducts" value="U_SHOTGUN1" />
@@ -637,7 +635,6 @@
 		<Property name="SeenProducts" value="U_LASER4" />
 		<Property name="SeenProducts" value="S_FABROLLPILE0" />
 		<Property name="SeenProducts" value="T_ROOF2" />
-		<Property name="SeenProducts" value="€‚^Zã&#98503" />
 		<Property name="SeenProducts" value="FOOD_P_TOXWILD" />
 		<Property name="SeenProducts" value="U_LAUNCH1" />
 		<Property name="SeenProducts" value="S_POSTER8" />
@@ -821,7 +818,6 @@
 		<Property name="SeenProducts" value="F_CHEV_WALL" />
 		<Property name="SeenProducts" value="U_SWITCHBUTTON" />
 		<Property name="SeenProducts" value="PLANTPOT2" />
-		<Property name="SeenProducts" value="€„-¹Oø#00000" />
 		<Property name="SeenProducts" value="WEDGESHAPE" />
 		<Property name="SeenProducts" value="S_WALL_Q" />
 		<Property name="SeenProducts" value="F_ROOF5" />
@@ -936,7 +932,6 @@
 		<Property name="SeenProducts" value="TRA_MINERALS1" />
 		<Property name="SeenProducts" value="BANNER_SLIMY" />
 		<Property name="SeenProducts" value="SALVAGE_TECH9" />
-		<Property name="SeenProducts" value="€‚XRè"#95545" />
 		<Property name="SeenProducts" value="U_EXO_SUBGUN1" />
 		<Property name="SeenProducts" value="BUILDCHAIR2" />
 		<Property name="SeenProducts" value="S_ARCH_H" />
@@ -961,7 +956,6 @@
 		<Property name="SeenProducts" value="S_ROOF_E_Q" />
 		<Property name="SeenProducts" value="AM_HOUSING" />
 		<Property name="SeenProducts" value="BUILDDECALVIS1" />
-		<Property name="SeenProducts" value="€€âG¥#98503" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE9" />
 		<Property name="SeenProducts" value="S_CEMENTBAG" />
 		<Property name="SeenProducts" value="S_PALLET" />
@@ -1270,6 +1264,7 @@
 	<Property name="TriggerFeedbackStrength" value="10" />
 	<Property name="SpaceCombatFollowMode" value="Hold" />
 	<Property name="UpgradedUsers">
+		<Property name="UpgradedUsers" value="2535415199201437_Win" />
 		<Property name="UpgradedUsers" value="" />
 	</Property>
 	<Property name="AllowWhiteScreenTransitions" value="true" />
