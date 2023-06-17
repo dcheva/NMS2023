@@ -9,8 +9,8 @@
 	</Property>
 	<Property name="ResolutionWidth" value="1920" />
 	<Property name="ResolutionHeight" value="1080" />
-	<Property name="ResolutionScale" value="0.850000" />
-	<Property name="VsyncEx" value="Triple" />
+	<Property name="ResolutionScale" value="0.750000" />
+	<Property name="VsyncEx" value="Off" />
 	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
 		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml" />
@@ -31,7 +31,7 @@
 	<Property name="FoVOnFoot" value="100.000000" />
 	<Property name="FoVInShip" value="100.000000" />
 	<Property name="Brightness" value="50" />
-	<Property name="MaxframeRate" value="50" />
+	<Property name="MaxframeRate" value="60" />
 	<Property name="NumHighThreads" value="4" />
 	<Property name="NumLowThreads" value="3" />
 	<Property name="TextureStreamingVk" value="Auto" />
