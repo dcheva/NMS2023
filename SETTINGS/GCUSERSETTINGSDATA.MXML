@@ -698,6 +698,7 @@
 		<Property name="SeenProducts" value="S_CRATE2" />
 		<Property name="SeenProducts" value="BUILDDECALNUM5" />
 		<Property name="SeenProducts" value="TRA_ALLOY1" />
+		<Property name="SeenProducts" value="TRA_MINERALS5" />
 		<Property name="SeenProducts" value="PRODFUEL2" />
 		<Property name="SeenProducts" value="S_CRATE3" />
 		<Property name="SeenProducts" value="U_JETBOOST3" />
