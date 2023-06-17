@@ -1165,6 +1165,7 @@
 		<Property name="UnlockedTitles" value="T_JM_UNITS1" />
 		<Property name="UnlockedTitles" value="T_BUILDER1" />
 		<Property name="UnlockedTitles" value="T_TRA4" />
+		<Property name="UnlockedTitles" value="T_EXP5" />
 		<Property name="UnlockedTitles" value="T_TRA_GUILD1" />
 		<Property name="UnlockedTitles" value="T_EXP3" />
 		<Property name="UnlockedTitles" value="T_TRA3" />
