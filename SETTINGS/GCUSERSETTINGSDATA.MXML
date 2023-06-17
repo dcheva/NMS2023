@@ -600,6 +600,7 @@
 		<Property name="SeenProducts" value="T_ROOF_C" />
 		<Property name="SeenProducts" value="MAINROOM_WATER" />
 		<Property name="SeenProducts" value="S_GFLOOR" />
+		<Property name="SeenProducts" value="FRIG_BOOST_EXP" />
 		<Property name="SeenProducts" value="U_LASERX" />
 		<Property name="SeenProducts" value="MESSAGEMODULE" />
 		<Property name="SeenProducts" value="BUILDLIGHT3" />
@@ -663,6 +664,7 @@
 		<Property name="SeenProducts" value="GEODE_CAVE" />
 		<Property name="SeenProducts" value="REACTION3" />
 		<Property name="SeenProducts" value="ULTRAPROD2" />
+		<Property name="SeenProducts" value="FRIG_BOOST_COM" />
 		<Property name="SeenProducts" value="S_ROOF3" />
 		<Property name="SeenProducts" value="RADIOPLANT" />
 		<Property name="SeenProducts" value="TRA_MINERALS3" />
@@ -722,6 +724,7 @@
 		<Property name="SeenProducts" value="FOOD_PIE_CRAB" />
 		<Property name="SeenProducts" value="T_TRIFLOOR" />
 		<Property name="SeenProducts" value="U_EXOBOOST1" />
+		<Property name="SeenProducts" value="FRIG_BOOST_SPD" />
 		<Property name="SeenProducts" value="U_TOX3" />
 		<Property name="SeenProducts" value="S_WALL_Q_H1" />
 		<Property name="SeenProducts" value="CASING" />
@@ -981,6 +984,7 @@
 		<Property name="SeenProducts" value="S_CRATE4OPEN" />
 		<Property name="SeenProducts" value="SALVAGE_TECH8" />
 		<Property name="SeenProducts" value="BUILDLOCKER" />
+		<Property name="SeenProducts" value="FRIG_BOOST_MIN" />
 		<Property name="SeenProducts" value="DRESSING_TABLE" />
 		<Property name="SeenProducts" value="T_ROOF7" />
 		<Property name="SeenProducts" value="FOOD_P_RADWILD" />
@@ -990,6 +994,7 @@
 		<Property name="SeenProducts" value="FRE_ROOM_SHOP" />
 		<Property name="SeenProducts" value="S_DOOR" />
 		<Property name="SeenProducts" value="POWERCELL" />
+		<Property name="SeenProducts" value="FRIG_BOOST_TRA" />
 		<Property name="SeenProducts" value="CUBEROOF" />
 		<Property name="SeenProducts" value="S_RSJSTACK" />
 		<Property name="SeenProducts" value="CEILINGLIGHT" />
