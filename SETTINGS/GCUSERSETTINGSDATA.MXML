@@ -408,8 +408,10 @@
 		<Property name="SeenProducts" value="ACCESS2" />
 		<Property name="SeenProducts" value="S_CARRIAGE" />
 		<Property name="SeenProducts" value="TECH_COMP" />
+		<Property name="SeenProducts" value="U_RAIL3" />
 		<Property name="SeenProducts" value="WALLSCREEN" />
 		<Property name="SeenProducts" value="F_ROOF2" />
+		<Property name="SeenProducts" value="U_GRENADE4" />
 		<Property name="SeenProducts" value="S_CHAIR0" />
 		<Property name="SeenProducts" value="HYPERFUEL1" />
 		<Property name="SeenProducts" value="FACT_TOKEN" />
@@ -1050,6 +1052,7 @@
 		<Property name="SeenProducts" value="BUILDLCRATE" />
 		<Property name="SeenProducts" value="CARBON_SEAL" />
 		<Property name="SeenProducts" value="FARMPROD2" />
+		<Property name="SeenProducts" value="U_CANNON4" />
 		<Property name="SeenProducts" value="U_SHOTGUN2" />
 		<Property name="SeenProducts" value="S_ROOF4" />
 		<Property name="SeenProducts" value="U_COLDPROT1" />
