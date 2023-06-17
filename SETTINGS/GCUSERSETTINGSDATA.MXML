@@ -679,6 +679,7 @@
 		<Property name="SeenProducts" value="PLANTPOT1" />
 		<Property name="SeenProducts" value="TRA_EXOTICS1" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE1" />
+		<Property name="SeenProducts" value="FOOD_M_BONE" />
 		<Property name="SeenProducts" value="U_HYPERX" />
 		<Property name="SeenProducts" value="U_PIPELINE" />
 		<Property name="SeenProducts" value="S_ROOF_IC" />
@@ -1174,6 +1175,7 @@
 		<Property name="UnlockedTitles" value="T_JM_WORD1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
 		<Property name="UnlockedTitles" value="T_EXP4" />
+		<Property name="UnlockedTitles" value="T_CRASHED_SHIP" />
 		<Property name="UnlockedTitles" value="T_DIG1" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
 		<Property name="UnlockedTitles" value="T_JM_WALK1" />
