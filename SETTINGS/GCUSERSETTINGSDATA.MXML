@@ -178,6 +178,7 @@
 		<Property name="SeenSubstances" value="OXYGEN" />
 		<Property name="SeenSubstances" value="PLANT_DUST" />
 		<Property name="SeenSubstances" value="PLANT_SNOW" />
+		<Property name="SeenSubstances" value="QUICKSILVER" />
 		<Property name="SeenSubstances" value="TGUILD_STAND_UP" />
 		<Property name="SeenSubstances" value="ROCKETSUB" />
 		<Property name="SeenSubstances" value="ASTEROID2" />
@@ -1288,7 +1289,7 @@
 	<Property name="UseCharacterHeightForCamera" value="true" />
 	<Property name="BaseComplexityLimitsEnabled" value="true" />
 	<Property name="EnableLargeLobbies" value="true" />
-	<Property name="FireteamSessionCount" value="0" />
+	<Property name="FireteamSessionCount" value="1" />
 	<Property name="HeadsetVibrationStrength" value="10" />
 	<Property name="VibrationStrength" value="10" />
 	<Property name="CamerShakeStrength" value="10" />
