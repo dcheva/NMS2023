@@ -232,6 +232,7 @@
 		<Property name="SeenTechnologies" value="SUB_BINOCS" />
 		<Property name="SeenTechnologies" value="UT_SMG_DOT" />
 		<Property name="SeenTechnologies" value="UT_WATER" />
+		<Property name="SeenTechnologies" value="F_HDRIVEBOOST1" />
 		<Property name="SeenTechnologies" value="UT_ROCKETS" />
 		<Property name="SeenTechnologies" value="MECH_BOOST" />
 		<Property name="SeenTechnologies" value="UT_RAD" />
@@ -582,7 +583,6 @@
 		<Property name="SeenProducts" value="T_WALL_H" />
 		<Property name="SeenProducts" value="S_PLANTER_M" />
 		<Property name="SeenProducts" value="TRA_ALLOY5" />
-		<Property name="SeenProducts" value="€‚TR#00000" />
 		<Property name="SeenProducts" value="F_WALL_Q" />
 		<Property name="SeenProducts" value="S_DOOR_H" />
 		<Property name="SeenProducts" value="F_ROOF8" />
@@ -906,7 +906,6 @@
 		<Property name="SeenProducts" value="U_EXO_SUBGUN3" />
 		<Property name="SeenProducts" value="T_WALL_WIN2" />
 		<Property name="SeenProducts" value="U_BATTERY_S" />
-		<Property name="SeenProducts" value="€‚XRè"#10433" />
 		<Property name="SeenProducts" value="FOOD_M_BLOB" />
 		<Property name="SeenProducts" value="T_RAMP_H" />
 		<Property name="SeenProducts" value="S_CARRIAGEWHEEL" />

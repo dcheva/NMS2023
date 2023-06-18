@@ -9,25 +9,38 @@
 	</Property>
 	<Property name="ResolutionWidth" value="1920" />
 	<Property name="ResolutionHeight" value="1080" />
-	<Property name="ResolutionScale" value="0.850000" />
+	<Property name="ResolutionScale" value="1.000000" />
 	<Property name="VsyncEx" value="Off" />
 	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
 		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="High" />
+			<Property name="GraphicDetail" value="Low" />
 		</Property>
-		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml" />
+		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
 		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="High" />
+			<Property name="GraphicDetail" value="Low" />
 		</Property>
-		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml" />
-		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml" />
-		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml" />
+		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
+		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Low" />
+		</Property>
 		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
-		<Property name="AnisotropyLevel" value="8" />
-		<Property name="AmbientOcclusion" value="GTAO_Medium" />
+		<Property name="AnisotropyLevel" value="1" />
+		<Property name="AmbientOcclusion" value="GTAO_Low" />
+		<Property name="AntiAliasing" value="None" />
 	</Property>
 	<Property name="MotionBlurStrength" value="100.000000" />
 	<Property name="VignetteAndScanlines" value="true" />
