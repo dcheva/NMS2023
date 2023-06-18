@@ -144,6 +144,7 @@
 		<Property name="SeenSubstances" value="GAS2" />
 		<Property name="SeenSubstances" value="CAVE2" />
 		<Property name="SeenSubstances" value="ASTEROID1" />
+		<Property name="SeenSubstances" value="EGUILD_STAND_UP" />
 		<Property name="SeenSubstances" value="CREATURE1" />
 		<Property name="SeenSubstances" value="WAR_STANDING_UP" />
 		<Property name="SeenSubstances" value="SPACEGUNK3" />
@@ -412,6 +413,7 @@
 		<Property name="SeenProducts" value="U_RAIL3" />
 		<Property name="SeenProducts" value="WALLSCREEN" />
 		<Property name="SeenProducts" value="F_ROOF2" />
+		<Property name="SeenProducts" value="U_SMG3" />
 		<Property name="SeenProducts" value="U_GRENADE4" />
 		<Property name="SeenProducts" value="S_CHAIR0" />
 		<Property name="SeenProducts" value="HYPERFUEL1" />
@@ -658,6 +660,7 @@
 		<Property name="SeenProducts" value="COMPOUND4" />
 		<Property name="SeenProducts" value="S_CHEV_WIN0" />
 		<Property name="SeenProducts" value="U_SILO_S" />
+		<Property name="SeenProducts" value="U_LAUNCH2" />
 		<Property name="SeenProducts" value="S_CANOPY_WALL2" />
 		<Property name="SeenProducts" value="S_ROOF_M_CAP" />
 		<Property name="SeenProducts" value="U_EXO_SUB1" />
@@ -693,6 +696,7 @@
 		<Property name="SeenProducts" value="NIPPLANT" />
 		<Property name="SeenProducts" value="ALBUMENPEARL" />
 		<Property name="SeenProducts" value="S_POSTER7" />
+		<Property name="SeenProducts" value="UP_T_WATERENERG" />
 		<Property name="SeenProducts" value="U_LAUNCH3" />
 		<Property name="SeenProducts" value="DOOR2" />
 		<Property name="SeenProducts" value="F_RAMP_Q_TOP" />
@@ -759,6 +763,8 @@
 		<Property name="SeenProducts" value="F_CHEV_DOOR" />
 		<Property name="SeenProducts" value="S_BARSTOOL0" />
 		<Property name="SeenProducts" value="F_ROOF0" />
+		<Property name="SeenProducts" value="U_CANNONX" />
+		<Property name="SeenProducts" value="€X;UE#00000" />
 		<Property name="SeenProducts" value="U_MECHLAS2" />
 		<Property name="SeenProducts" value="S_CHEV_DOOR" />
 		<Property name="SeenProducts" value="QUAD_PROD" />
@@ -957,6 +963,7 @@
 		<Property name="SeenProducts" value="S_ANTENNA2" />
 		<Property name="SeenProducts" value="S_TRIFLOOR_Q" />
 		<Property name="SeenProducts" value="T_ROOF_M" />
+		<Property name="SeenProducts" value="U_GRENADE3" />
 		<Property name="SeenProducts" value="T_WALL" />
 		<Property name="SeenProducts" value="U_GENERATOR_S" />
 		<Property name="SeenProducts" value="T_RAMP_Q_TOP" />
@@ -1178,6 +1185,7 @@
 		<Property name="UnlockedTitles" value="T_JM_WORD1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN1" />
 		<Property name="UnlockedTitles" value="T_EXP4" />
+		<Property name="UnlockedTitles" value="T_EXP_GUILD1" />
 		<Property name="UnlockedTitles" value="T_CRASHED_SHIP" />
 		<Property name="UnlockedTitles" value="T_DIG1" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
