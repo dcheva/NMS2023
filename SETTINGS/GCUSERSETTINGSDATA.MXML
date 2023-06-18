@@ -1118,6 +1118,7 @@
 		<Property name="SeenProducts" value="T_RAMP" />
 	</Property>
 	<Property name="SeenWikiTopics">
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TRADE_7" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_6" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_FLEETS" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_6" />
@@ -1128,21 +1129,26 @@
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_1" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_BASICS" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_REFINER" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_FEEDING" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_WORDS" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_3" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_4" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TERRAIN" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TRADE_1" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_1" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_5" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_POWER" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_3" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_2" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TRADE_6" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_2" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SPACE_STATION" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_4" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TRADE_3" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_DISMANTLE" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_4" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_5" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_TRADE_5" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_1" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SIGNALS" />
 	</Property>
