@@ -1212,6 +1212,7 @@
 		<Property name="UnlockedTitles" value="T_JM_SHIPS2" />
 		<Property name="UnlockedTitles" value="T_EXP3" />
 		<Property name="UnlockedTitles" value="T_TRA3" />
+		<Property name="UnlockedTitles" value="T_DEATH8" />
 		<Property name="UnlockedTitles" value="T_MS_WORDS_4" />
 		<Property name="UnlockedTitles" value="T_MS_SENT_8" />
 		<Property name="UnlockedTitles" value="T_WAR_GUILD2" />
