@@ -682,6 +682,7 @@
 		<Property name="SeenProducts" value="S_WALL_Q1" />
 		<Property name="SeenProducts" value="ROBOTICARM" />
 		<Property name="SeenProducts" value="PLANTPOT1" />
+		<Property name="SeenProducts" value="U_LASER2" />
 		<Property name="SeenProducts" value="TRA_EXOTICS1" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE1" />
 		<Property name="SeenProducts" value="FOOD_M_BONE" />
