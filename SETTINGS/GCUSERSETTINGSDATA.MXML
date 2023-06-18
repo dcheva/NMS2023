@@ -455,6 +455,7 @@
 		<Property name="SeenProducts" value="BUILD_REFINER2" />
 		<Property name="SeenProducts" value="U_BOLT1" />
 		<Property name="SeenProducts" value="S_FLOOR_Q" />
+		<Property name="SeenProducts" value="U_CANNON3" />
 		<Property name="SeenProducts" value="S_POSTER13" />
 		<Property name="SeenProducts" value="ALLOY8" />
 		<Property name="SeenProducts" value="SACVENOMPLANT" />
@@ -581,6 +582,7 @@
 		<Property name="SeenProducts" value="T_WALL_H" />
 		<Property name="SeenProducts" value="S_PLANTER_M" />
 		<Property name="SeenProducts" value="TRA_ALLOY5" />
+		<Property name="SeenProducts" value="€‚TR#00000" />
 		<Property name="SeenProducts" value="F_WALL_Q" />
 		<Property name="SeenProducts" value="S_DOOR_H" />
 		<Property name="SeenProducts" value="F_ROOF8" />
@@ -714,6 +716,7 @@
 		<Property name="SeenProducts" value="S_CRATE3" />
 		<Property name="SeenProducts" value="U_JETBOOST3" />
 		<Property name="SeenProducts" value="U_SMGX" />
+		<Property name="SeenProducts" value="U_SMG4" />
 		<Property name="SeenProducts" value="S_BAR" />
 		<Property name="SeenProducts" value="GARAGE_M" />
 		<Property name="SeenProducts" value="LARGEDESK" />
