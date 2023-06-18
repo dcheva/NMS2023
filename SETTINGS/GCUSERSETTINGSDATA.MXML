@@ -460,6 +460,7 @@
 		<Property name="SeenProducts" value="U_ENERGY1" />
 		<Property name="SeenProducts" value="S_RAMP" />
 		<Property name="SeenProducts" value="U_PORTALLINE" />
+		<Property name="SeenProducts" value="U_TOX2" />
 		<Property name="SeenProducts" value="MAINROOM" />
 		<Property name="SeenProducts" value="TELEPORTER_F" />
 		<Property name="SeenProducts" value="F_RAMP" />
