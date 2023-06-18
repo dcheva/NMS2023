@@ -666,6 +666,7 @@
 		<Property name="SeenProducts" value="S_CANOPY_WALL2" />
 		<Property name="SeenProducts" value="S_ROOF_M_CAP" />
 		<Property name="SeenProducts" value="U_EXO_SUB1" />
+		<Property name="SeenProducts" value="ATLAS_SEED_1" />
 		<Property name="SeenProducts" value="BUILDSAVE" />
 		<Property name="SeenProducts" value="F_GDOOR" />
 		<Property name="SeenProducts" value="S_WALLHANGING2" />
