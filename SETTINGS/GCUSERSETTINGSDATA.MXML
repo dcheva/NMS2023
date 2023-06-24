@@ -1667,6 +1667,7 @@
 		<Property name="UnlockedTitles" value="T_BUILDER1" />
 		<Property name="UnlockedTitles" value="T_DEATH10" />
 		<Property name="UnlockedTitles" value="T_TRA4" />
+		<Property name="UnlockedTitles" value="T_LORE3" />
 		<Property name="UnlockedTitles" value="T_MS_WORDS_8" />
 		<Property name="UnlockedTitles" value="T_EXP5" />
 		<Property name="UnlockedTitles" value="T_TRA_GUILD1" />
@@ -1700,6 +1701,7 @@
 		<Property name="UnlockedTitles" value="T_BUILDER3" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
 		<Property name="UnlockedTitles" value="T_MS_FIENDS_7" />
+		<Property name="UnlockedTitles" value="T_CORRUPT_SENT1" />
 		<Property name="UnlockedTitles" value="T_DEATH9" />
 		<Property name="UnlockedTitles" value="T_BLACK_HOL" />
 		<Property name="UnlockedTitles" value="T_MAYOR" />
@@ -1725,9 +1727,19 @@
 		<Property name="UnlockedTitles" value="T_JM_WALK2" />
 	</Property>
 	<Property name="UnlockedSpecials">
+		<Property name="UnlockedSpecials" value="DECAL_SKULL" />
+		<Property name="UnlockedSpecials" value="SPEC_SENTPACK" />
+		<Property name="UnlockedSpecials" value="BASE_TOYJELLY" />
+		<Property name="UnlockedSpecials" value="DECAL_HAZARD" />
+		<Property name="UnlockedSpecials" value="BANNER_SPOOKY" />
+		<Property name="UnlockedSpecials" value="DECAL_JELLY" />
+		<Property name="UnlockedSpecials" value="BANNER_SLIMY" />
+		<Property name="UnlockedSpecials" value="SLIME_MED" />
+		<Property name="UnlockedSpecials" value="DECAL_HORROR" />
+		<Property name="UnlockedSpecials" value="SPOOKY_PLANT" />
 		<Property name="UnlockedSpecials" value="EXPD_POSTER10B" />
 		<Property name="UnlockedSpecials" value="EXPD_POSTER10C" />
-		<Property name="UnlockedSpecials" value="SPEC_SENTPACK" />
+		<Property name="UnlockedSpecials" value="SPEC_SPOOKYHEAD" />
 		<Property name="UnlockedSpecials" value="EXPD_POSTER10A" />
 	</Property>
 	<Property name="UnlockedSeasonRewards">
