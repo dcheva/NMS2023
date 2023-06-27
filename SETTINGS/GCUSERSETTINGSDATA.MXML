@@ -7,8 +7,8 @@
 	<Property name="HUDHidden" value="false" />
 	<Property name="Vibration" value="true" />
 	<Property name="ScreenBrightness" value="50" />
-	<Property name="MusicVolume" value="75" />
-	<Property name="SfxVolume" value="75" />
+	<Property name="MusicVolume" value="0" />
+	<Property name="SfxVolume" value="50" />
 	<Property name="LookSensitivityMode1" value="35" />
 	<Property name="LookSensitivityMode2" value="25" />
 	<Property name="FlightSensitivityMode1" value="100" />
@@ -558,6 +558,7 @@
 		<Property name="SeenProducts" value="S_RUG0" />
 		<Property name="SeenProducts" value="S10_PART3" />
 		<Property name="SeenProducts" value="FLAG3" />
+		<Property name="SeenProducts" value="BLD_CRYS_SENT0" />
 		<Property name="SeenProducts" value="SMALLLIGHT" />
 		<Property name="SeenProducts" value="WALLLIGHTWHITE" />
 		<Property name="SeenProducts" value="EXPD_DECAL01" />
@@ -1036,6 +1037,7 @@
 		<Property name="SeenProducts" value="U_GRENADE4" />
 		<Property name="SeenProducts" value="TRA_ALLOY4" />
 		<Property name="SeenProducts" value="HYPERFUEL1" />
+		<Property name="SeenProducts" value="BLD_CRYS_SENT1" />
 		<Property name="SeenProducts" value="BUILDDECALVIS3" />
 		<Property name="SeenProducts" value="SCORCHEDPLANT" />
 		<Property name="SeenProducts" value="T_WALL_Q_H1" />
@@ -1650,6 +1652,7 @@
 		<Property name="UnlockedTitles" value="T_EXP_GUILD1" />
 		<Property name="UnlockedTitles" value="T_MS_SCANNER_5" />
 		<Property name="UnlockedTitles" value="T_CRASHED_SHIP" />
+		<Property name="UnlockedTitles" value="T_ABYSS" />
 		<Property name="UnlockedTitles" value="T_DIG1" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
 		<Property name="UnlockedTitles" value="T_JM_WALK1" />
@@ -1660,6 +1663,7 @@
 		<Property name="UnlockedTitles" value="T_TRA2" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN2" />
 		<Property name="UnlockedTitles" value="T_SHIP_SCI" />
+		<Property name="UnlockedTitles" value="T_CORRUPT_SENT2" />
 		<Property name="UnlockedTitles" value="T_MS_FLORA_4" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS1" />
 		<Property name="UnlockedTitles" value="T_JM_ZOO3" />
@@ -1694,6 +1698,7 @@
 		<Property name="UnlockedTitles" value="T_LORE10" />
 		<Property name="UnlockedTitles" value="T_JM_ZOO2" />
 		<Property name="UnlockedTitles" value="T_MS_SENT_6" />
+		<Property name="UnlockedTitles" value="T_SHIP_EXOTIC" />
 		<Property name="UnlockedTitles" value="T_JM_FARM1" />
 		<Property name="UnlockedTitles" value="T_WAR_GUILD1" />
 		<Property name="UnlockedTitles" value="T_MS_SENT_10" />
@@ -1702,6 +1707,7 @@
 		<Property name="UnlockedTitles" value="T_JM_UNITS2" />
 		<Property name="UnlockedTitles" value="T_MS_FIENDS_7" />
 		<Property name="UnlockedTitles" value="T_CORRUPT_SENT1" />
+		<Property name="UnlockedTitles" value="T_MS_ENEMIES_10" />
 		<Property name="UnlockedTitles" value="T_DEATH9" />
 		<Property name="UnlockedTitles" value="T_BLACK_HOL" />
 		<Property name="UnlockedTitles" value="T_MAYOR" />
@@ -1715,9 +1721,11 @@
 		<Property name="UnlockedTitles" value="T_JM_SURVIVE3" />
 		<Property name="UnlockedTitles" value="T_JM_FIGHT3" />
 		<Property name="UnlockedTitles" value="T_LORE4" />
+		<Property name="UnlockedTitles" value="T_ABANDLORE1" />
 		<Property name="UnlockedTitles" value="T_JM_FLORASCAN3" />
 		<Property name="UnlockedTitles" value="T_EXP2" />
 		<Property name="UnlockedTitles" value="T_BONES1" />
+		<Property name="UnlockedTitles" value="T_MS_SCANNER_8" />
 		<Property name="UnlockedTitles" value="T_JM_FARM2" />
 		<Property name="UnlockedTitles" value="T_MS_MONEY_6" />
 		<Property name="UnlockedTitles" value="T_OLD" />
@@ -1725,26 +1733,36 @@
 		<Property name="UnlockedTitles" value="T_MS_PPROD_5" />
 		<Property name="UnlockedTitles" value="T_MS_DIST_4" />
 		<Property name="UnlockedTitles" value="T_JM_WALK2" />
+		<Property name="UnlockedTitles" value="T_JM_EXPLORE1" />
 	</Property>
 	<Property name="UnlockedSpecials">
 		<Property name="UnlockedSpecials" value="DECAL_SKULL" />
 		<Property name="UnlockedSpecials" value="SPEC_SENTPACK" />
+		<Property name="UnlockedSpecials" value="BLD_CRYS_SENT1" />
 		<Property name="UnlockedSpecials" value="BASE_TOYJELLY" />
 		<Property name="UnlockedSpecials" value="DECAL_HAZARD" />
+		<Property name="UnlockedSpecials" value="BLD_CRYS_DRONE" />
 		<Property name="UnlockedSpecials" value="BANNER_SPOOKY" />
+		<Property name="UnlockedSpecials" value="JETS_CORRUPT" />
+		<Property name="UnlockedSpecials" value="FREI_TRAIL_RED" />
 		<Property name="UnlockedSpecials" value="DECAL_JELLY" />
 		<Property name="UnlockedSpecials" value="BANNER_SLIMY" />
 		<Property name="UnlockedSpecials" value="SLIME_MED" />
 		<Property name="UnlockedSpecials" value="DECAL_HORROR" />
 		<Property name="UnlockedSpecials" value="SPOOKY_PLANT" />
+		<Property name="UnlockedSpecials" value="SPEC_DIVEHELMET" />
 		<Property name="UnlockedSpecials" value="EXPD_POSTER10B" />
 		<Property name="UnlockedSpecials" value="EXPD_POSTER10C" />
+		<Property name="UnlockedSpecials" value="BLD_CRYS_SENT0" />
 		<Property name="UnlockedSpecials" value="SPEC_SPOOKYHEAD" />
 		<Property name="UnlockedSpecials" value="EXPD_POSTER10A" />
 	</Property>
 	<Property name="UnlockedSeasonRewards">
 		<Property name="UnlockedSeasonRewards" value="EXPD_POSTER10B" />
 		<Property name="UnlockedSeasonRewards" value="EXPD_POSTER10C" />
+		<Property name="UnlockedSeasonRewards" value="JETS_CORRUPT" />
+		<Property name="UnlockedSeasonRewards" value="FREI_TRAIL_RED" />
+		<Property name="UnlockedSeasonRewards" value="BLD_CRYS_DRONE" />
 		<Property name="UnlockedSeasonRewards" value="EXPD_POSTER10A" />
 	</Property>
 	<Property name="UnlockedTwitchRewards" />
