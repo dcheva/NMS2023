@@ -140,6 +140,7 @@
 		<Property name="SeenSubstances" value="LAND2" />
 		<Property name="SeenSubstances" value="SPACEGUNK2" />
 		<Property name="SeenSubstances" value="EX_GREEN" />
+		<Property name="SeenSubstances" value="SPECIAL_POOP" />
 		<Property name="SeenSubstances" value="WATER1" />
 		<Property name="SeenSubstances" value="DUSTY1" />
 		<Property name="SeenSubstances" value="EX_RED" />
@@ -421,6 +422,7 @@
 		<Property name="SeenProducts" value="U_TGRENADE1" />
 		<Property name="SeenProducts" value="EXP_CURIO1" />
 		<Property name="SeenProducts" value="EXPD_TITLE03" />
+		<Property name="SeenProducts" value="€€Ë§à#00000" />
 		<Property name="SeenProducts" value="PANEL_GLASS" />
 		<Property name="SeenProducts" value="BASE_TREE03" />
 		<Property name="SeenProducts" value="S_MILKBOTTLE" />
@@ -459,6 +461,8 @@
 		<Property name="SeenProducts" value="U_RAILX" />
 		<Property name="SeenProducts" value="EXPD_BANNER03" />
 		<Property name="SeenProducts" value="S_CHAIR0" />
+		<Property name="SeenProducts" value="FOOD_V_STRIDER" />
+		<Property name="SeenProducts" value="€€¥X§ä#97180" />
 		<Property name="SeenProducts" value="FACT_TOKEN" />
 		<Property name="SeenProducts" value="MIRROR" />
 		<Property name="SeenProducts" value="STATUE_SHIP_G" />
@@ -536,6 +540,7 @@
 		<Property name="SeenProducts" value="BUILDFLATPANEL" />
 		<Property name="SeenProducts" value="S_HANGLAMP3" />
 		<Property name="SeenProducts" value="BASE_ROCK03" />
+		<Property name="SeenProducts" value="€ˆ×”¦F#49690" />
 		<Property name="SeenProducts" value="U_PULSE3" />
 		<Property name="SeenProducts" value="S_RAMP_Q_TOP" />
 		<Property name="SeenProducts" value="EXPD_DECAL08" />
@@ -648,6 +653,7 @@
 		<Property name="SeenProducts" value="FOOD_P_TOXWILD" />
 		<Property name="SeenProducts" value="U_LAUNCH1" />
 		<Property name="SeenProducts" value="BASE_GRASS4" />
+		<Property name="SeenProducts" value="€€ÿÃû#00000" />
 		<Property name="SeenProducts" value="S_ROOF1" />
 		<Property name="SeenProducts" value="TRA_EXOTICS3" />
 		<Property name="SeenProducts" value="FRE_ROOM_DRESS" />
@@ -699,6 +705,7 @@
 		<Property name="SeenProducts" value="U_LAUNCH3" />
 		<Property name="SeenProducts" value="S_POSTER14" />
 		<Property name="SeenProducts" value="SPEC_EXOTIC10" />
+		<Property name="SeenProducts" value="€„—ÅI†#00000" />
 		<Property name="SeenProducts" value="CAPE_BIOFRIG" />
 		<Property name="SeenProducts" value="EXPD_WORMHAT" />
 		<Property name="SeenProducts" value="REACTION1" />
@@ -1195,6 +1202,7 @@
 		<Property name="SeenProducts" value="EXPD_TITLE01" />
 		<Property name="SeenProducts" value="S_PLANTER_M" />
 		<Property name="SeenProducts" value="EXPD_POSTER07C" />
+		<Property name="SeenProducts" value="€S³9#00000" />
 		<Property name="SeenProducts" value="F_WALL_Q" />
 		<Property name="SeenProducts" value="F_ROOF8" />
 		<Property name="SeenProducts" value="U_ENERGYX" />
@@ -1605,6 +1613,7 @@
 		<Property name="SeenProducts" value="ATLAS_SEED_10" />
 		<Property name="SeenProducts" value="S_ROOF4" />
 		<Property name="SeenProducts" value="U_SHOTGUN4" />
+		<Property name="SeenProducts" value="ILLEGAL_PROD3" />
 		<Property name="SeenProducts" value="U_EXOGUN2" />
 		<Property name="SeenProducts" value="BUILDSIMPLEDESK" />
 		<Property name="SeenProducts" value="U_SHIPSHIELD4" />
@@ -1619,6 +1628,7 @@
 		<Property name="SeenProducts" value="TRA_MINERALS4" />
 		<Property name="SeenProducts" value="FOOD_P_ALL3" />
 		<Property name="SeenProducts" value="SPEC_VYK_ARMOUR" />
+		<Property name="SeenProducts" value="€€¥X§ä#01819" />
 		<Property name="SeenProducts" value="EXPD_TITLE05" />
 		<Property name="SeenProducts" value="U_SWITCHPROX" />
 		<Property name="SeenProducts" value="F_WALL_WINDOW" />
@@ -1709,6 +1719,7 @@
 		<Property name="UnlockedTitles" value="T_REALITY3" />
 		<Property name="UnlockedTitles" value="T_EXP_GUILD1" />
 		<Property name="UnlockedTitles" value="T_MS_SCANNER_5" />
+		<Property name="UnlockedTitles" value="T_PIRATEMISS" />
 		<Property name="UnlockedTitles" value="T_ABYSS" />
 		<Property name="UnlockedTitles" value="T_JM_UNITS3" />
 		<Property name="UnlockedTitles" value="T_MS_PLANTS_1" />
