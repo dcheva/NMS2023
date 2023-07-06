@@ -18,15 +18,9 @@
 		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml">
 			<Property name="GraphicDetail" value="High" />
 		</Property>
-		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="High" />
-		</Property>
-		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="High" />
-		</Property>
-		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml">
-			<Property name="GraphicDetail" value="High" />
-		</Property>
+		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml" />
+		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml" />
+		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml" />
 		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml">
 			<Property name="GraphicDetail" value="High" />
@@ -39,7 +33,6 @@
 		</Property>
 		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
 		<Property name="AmbientOcclusion" value="GTAO_Medium" />
-		<Property name="AnisotropyLevel" value="8" />
 	</Property>
 	<Property name="MotionBlurStrength" value="100.000000" />
 	<Property name="VignetteAndScanlines" value="true" />

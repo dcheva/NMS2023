@@ -7,8 +7,8 @@
 	<Property name="HUDHidden" value="false" />
 	<Property name="Vibration" value="true" />
 	<Property name="ScreenBrightness" value="50" />
-	<Property name="MusicVolume" value="0" />
-	<Property name="SfxVolume" value="75" />
+	<Property name="MusicVolume" value="75" />
+	<Property name="SfxVolume" value="100" />
 	<Property name="LookSensitivityMode1" value="35" />
 	<Property name="LookSensitivityMode2" value="25" />
 	<Property name="FlightSensitivityMode1" value="100" />
@@ -493,6 +493,7 @@
 		<Property name="SeenProducts" value="BASE_MEDPLANT01" />
 		<Property name="SeenProducts" value="U_TRANSISTOR1" />
 		<Property name="SeenProducts" value="MESSAGE" />
+		<Property name="SeenProducts" value="ILLEGAL_PROD4" />
 		<Property name="SeenProducts" value="U_ENERGY1" />
 		<Property name="SeenProducts" value="U_TOX2" />
 		<Property name="SeenProducts" value="MAINROOM" />
@@ -701,6 +702,7 @@
 		<Property name="SeenProducts" value="CAPE_BIOFRIG" />
 		<Property name="SeenProducts" value="EXPD_WORMHAT" />
 		<Property name="SeenProducts" value="REACTION1" />
+		<Property name="SeenProducts" value="PIRATE_INVITE" />
 		<Property name="SeenProducts" value="TRA_ALLOY1" />
 		<Property name="SeenProducts" value="FREIGHT_ORANGE" />
 		<Property name="SeenProducts" value="BASE_DUSTPLANT2" />
@@ -901,6 +903,7 @@
 		<Property name="SeenProducts" value="T_ROOF_M" />
 		<Property name="SeenProducts" value="U_GRENADE3" />
 		<Property name="SeenProducts" value="TITLE_SPOOKY1" />
+		<Property name="SeenProducts" value="ILLEGAL_PROD5" />
 		<Property name="SeenProducts" value="T_RAMP_Q_TOP" />
 		<Property name="SeenProducts" value="U_HAZARDX" />
 		<Property name="SeenProducts" value="AM_HOUSING" />
@@ -928,6 +931,7 @@
 		<Property name="SeenProducts" value="S_RSJSTACK" />
 		<Property name="SeenProducts" value="CEILINGLIGHT" />
 		<Property name="SeenProducts" value="CONTAINER9" />
+		<Property name="SeenProducts" value="U_BOLT4" />
 		<Property name="SeenProducts" value="FISHCORE" />
 		<Property name="SeenProducts" value="FRE_CORR_G_STA" />
 		<Property name="SeenProducts" value="S_POSTER21" />
@@ -1018,6 +1022,7 @@
 		<Property name="SeenProducts" value="BUILD_REFINER3" />
 		<Property name="SeenProducts" value="SPEC_FIREWORK03" />
 		<Property name="SeenProducts" value="EXPD_POSTER08A" />
+		<Property name="SeenProducts" value="PIRATE_BEACON" />
 		<Property name="SeenProducts" value="MOONPOOL" />
 		<Property name="SeenProducts" value="EXPD_POSTER05A" />
 		<Property name="SeenProducts" value="U_JETBOOST4" />
@@ -1100,6 +1105,7 @@
 		<Property name="SeenProducts" value="U_PULSE1" />
 		<Property name="SeenProducts" value="S_EXCBUCKET" />
 		<Property name="SeenProducts" value="U_BOLT1" />
+		<Property name="SeenProducts" value="FOOD_P_LUSHWILD" />
 		<Property name="SeenProducts" value="FREIGHT_CYAN" />
 		<Property name="SeenProducts" value="BUILDDOOR_WATER" />
 		<Property name="SeenProducts" value="S_RAMP" />
@@ -1123,7 +1129,6 @@
 		<Property name="SeenProducts" value="S_TROUGH0" />
 		<Property name="SeenProducts" value="COMPOUND2" />
 		<Property name="SeenProducts" value="FRE_ROOM_STORE8" />
-		<Property name="SeenProducts" value="€€&amp;òK3#00000" />
 		<Property name="SeenProducts" value="U_SHIPSHIELD1" />
 		<Property name="SeenProducts" value="S_BUCKET_M" />
 		<Property name="SeenProducts" value="COMPOUND1" />
@@ -1374,6 +1379,7 @@
 		<Property name="SeenProducts" value="U_TGRENADE3" />
 		<Property name="SeenProducts" value="T_WALL_WIN1" />
 		<Property name="SeenProducts" value="LUSHPLANT" />
+		<Property name="SeenProducts" value="U_MECHGUN3" />
 		<Property name="SeenProducts" value="S_DOORWINDOW" />
 		<Property name="SeenProducts" value="BUILDCHAIR3" />
 		<Property name="SeenProducts" value="BUILDLABLAMP" />
@@ -1627,6 +1633,7 @@
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_NANITES" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_1" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_BASICS" />
+		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_5" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_ABAND" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_REFINER" />
 		<Property name="SeenWikiTopics" value="UI_GUIDE_TOPIC_FEEDING" />
@@ -1657,6 +1664,7 @@
 	<Property name="UnlockedWikiTopics">
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_TRADE_7" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_6" />
+		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_PIRATES" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_FLEETS" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_6" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_RECIPES" />
@@ -1665,6 +1673,7 @@
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_NANITES" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_COMBAT_1" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_SURVIVAL_BASICS" />
+		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_EXPLORATION_5" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_ABAND" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_REFINER" />
 		<Property name="UnlockedWikiTopics" value="UI_GUIDE_TOPIC_FEEDING" />
@@ -1834,6 +1843,7 @@
 		<Property name="UnlockedSpecials" value="S10_PART2" />
 		<Property name="UnlockedSpecials" value="SPOOKY_PLANT" />
 		<Property name="UnlockedSpecials" value="S10_PART1B" />
+		<Property name="UnlockedSpecials" value="SPEC_HOOD01" />
 		<Property name="UnlockedSpecials" value="EXPD_POSTER10C" />
 		<Property name="UnlockedSpecials" value="SPEC_SPOOKYHEAD" />
 		<Property name="UnlockedSpecials" value="SPEC_TITLE10" />
