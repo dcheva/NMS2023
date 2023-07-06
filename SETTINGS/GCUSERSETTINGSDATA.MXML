@@ -1342,6 +1342,7 @@
 		<Property name="SeenProducts" value="TRA_COMMODITY4" />
 		<Property name="SeenProducts" value="S_WALL_WIN3" />
 		<Property name="SeenProducts" value="U_SHIPSHOT2" />
+		<Property name="SeenProducts" value="FOOD_M_GEK" />
 		<Property name="SeenProducts" value="BASE_CAVE5" />
 		<Property name="SeenProducts" value="F_CHEV_DOOR" />
 		<Property name="SeenProducts" value="S_BARSTOOL0" />
