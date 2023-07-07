@@ -145,6 +145,7 @@
 		<Property name="SeenSubstances" value="DUSTY1" />
 		<Property name="SeenSubstances" value="EX_RED" />
 		<Property name="SeenSubstances" value="PLANT_POOP" />
+		<Property name="SeenSubstances" value="SET_MOOD_POS" />
 		<Property name="SeenSubstances" value="WATERPLANT" />
 		<Property name="SeenSubstances" value="GAS2" />
 		<Property name="SeenSubstances" value="CAVE2" />
@@ -251,10 +252,12 @@
 		<Property name="SeenTechnologies" value="VEHICLE_LASER" />
 		<Property name="SeenTechnologies" value="VEHICLE_GUN" />
 		<Property name="SeenTechnologies" value="MAINT_PORTAL13" />
+		<Property name="SeenTechnologies" value="WEAPSENT_DMG1" />
 		<Property name="SeenTechnologies" value="SUB_BINOCS" />
 		<Property name="SeenTechnologies" value="MAINT_FRIG2" />
 		<Property name="SeenTechnologies" value="UT_SMG_DOT" />
 		<Property name="SeenTechnologies" value="UT_WATER" />
+		<Property name="SeenTechnologies" value="SENT_LASER" />
 		<Property name="SeenTechnologies" value="F_HDRIVEBOOST1" />
 		<Property name="SeenTechnologies" value="UT_ROCKETS" />
 		<Property name="SeenTechnologies" value="SHIPGUN_ROBO" />
@@ -314,6 +317,7 @@
 		<Property name="SeenTechnologies" value="VEHICLE_LASER1" />
 		<Property name="SeenTechnologies" value="UT_SMGBOUNCE" />
 		<Property name="SeenTechnologies" value="SHIPSLOT_DMG11" />
+		<Property name="SeenTechnologies" value="WEAPSENT_DMG4" />
 		<Property name="SeenTechnologies" value="F_HACCESS3" />
 		<Property name="SeenTechnologies" value="SHIPSCAN_ECON" />
 		<Property name="SeenTechnologies" value="SHIPSLOT_DMG5" />
@@ -358,6 +362,7 @@
 		<Property name="SeenTechnologies" value="F_HDRIVEBOOST3" />
 		<Property name="SeenTechnologies" value="SHIPSLOT_DMG2" />
 		<Property name="SeenTechnologies" value="UT_RAIL_STUN" />
+		<Property name="SeenTechnologies" value="WEAPSENT_DMG2" />
 		<Property name="SeenTechnologies" value="UT_SHIPGUN" />
 		<Property name="SeenTechnologies" value="MAINT_PORTAL5" />
 		<Property name="SeenTechnologies" value="F_HACCESS1" />
@@ -375,6 +380,7 @@
 		<Property name="SeenTechnologies" value="VEHICLE_SCAN" />
 		<Property name="SeenTechnologies" value="MAINT_FUEL3" />
 		<Property name="SeenTechnologies" value="UT_ENERGY" />
+		<Property name="SeenTechnologies" value="WEAPSENT_DMG3" />
 		<Property name="SeenTechnologies" value="SUB_RECHARGE" />
 		<Property name="SeenTechnologies" value="UT_COLD" />
 		<Property name="SeenTechnologies" value="LIFESUP_ROBO" />
@@ -422,6 +428,7 @@
 		<Property name="SeenProducts" value="U_TGRENADE1" />
 		<Property name="SeenProducts" value="EXP_CURIO1" />
 		<Property name="SeenProducts" value="EXPD_TITLE03" />
+		<Property name="SeenProducts" value="€€Ë§à#00000" />
 		<Property name="SeenProducts" value="PANEL_GLASS" />
 		<Property name="SeenProducts" value="BASE_TREE03" />
 		<Property name="SeenProducts" value="S_MILKBOTTLE" />
@@ -1199,7 +1206,6 @@
 		<Property name="SeenProducts" value="EXPD_TITLE01" />
 		<Property name="SeenProducts" value="S_PLANTER_M" />
 		<Property name="SeenProducts" value="EXPD_POSTER07C" />
-		<Property name="SeenProducts" value="€S³9#00000" />
 		<Property name="SeenProducts" value="F_WALL_Q" />
 		<Property name="SeenProducts" value="F_ROOF8" />
 		<Property name="SeenProducts" value="U_ENERGYX" />
@@ -1498,9 +1504,7 @@
 		<Property name="SeenProducts" value="FARMPROD5" />
 		<Property name="SeenProducts" value="S_POSTER12" />
 		<Property name="SeenProducts" value="U_SHIPLAS2" />
-		<Property name="SeenProducts" value="€€`åß~#59061" />
 		<Property name="SeenProducts" value="F_WALL_Q_H1" />
-		<Property name="SeenProducts" value="€„¹B=#00000" />
 		<Property name="SeenProducts" value="S_SHELVINGUNIT0" />
 		<Property name="SeenProducts" value="S_WALLHANGING3" />
 		<Property name="SeenProducts" value="T_WALL" />
@@ -1532,7 +1536,6 @@
 		<Property name="SeenProducts" value="BUILDAMCRATE" />
 		<Property name="SeenProducts" value="ACCESS3" />
 		<Property name="SeenProducts" value="SPEC_PETCUST1" />
-		<Property name="SeenProducts" value="€‰MEæN#39267" />
 		<Property name="SeenProducts" value="U_HYPER1" />
 		<Property name="SeenProducts" value="FRE_ROOM_VEHICL" />
 		<Property name="SeenProducts" value="BUILDTERMINAL" />
